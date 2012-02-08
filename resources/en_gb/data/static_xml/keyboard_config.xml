@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<configuration>
+
+	
+	
+	<!--
+	<key>
+		<display> the display value
+		<display_caps> the display value in CAPS mode
+		<value> the value of the button
+		<value_caps> the value of the button in CAPS mode
+		<image> a path to PNG to display instead of text
+		<image_caps> a path to PNG to display in CAPS mode instead of text
+		<background> the background graphic to use, defaults to "small", other values "medium" or "large"
+	</key>
+	-->
+	
+	<layout>
+		<row>
+			<key>
+			
+				<value><![CDATA[1]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[2]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[3]]></value>
+			</key>
+			<key>
+			
+				<value><![CDATA[4]]></value>
+			</key>
+			<key>
+			
+				<value><![CDATA[5]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[6]]></value>
+			</key>
+			<key>
+			
+				<value><![CDATA[7]]></value>
+			</key>
+			<key>
+			
+				<value><![CDATA[8]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[9]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[0]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[@]]></value>
+			</key>
+		</row>
+		<row>
+			<key>
+				
+				
+				<value><![CDATA[q]]></value>
+			
+			</key>
+			<key>
+		
+			
+				<value><![CDATA[w]]></value>
+			
+			</key>
+			<key>
+				
+		
+				<value><![CDATA[e]]></value>
+				
+			</key>
+			<key>
+			
+				
+				<value><![CDATA[r]]></value>
+				
+			</key>
+			<key>
+			
+				
+				<value><![CDATA[t]]></value>
+			
+			</key>
+			<key>
+			
+			
+				<value><![CDATA[y]]></value>
+			
+			</key>
+			<key>
+				
+				<value><![CDATA[u]]></value>
+			
+			</key>
+			<key>
+		
+				<value><![CDATA[i]]></value>
+		
+			</key>
+			<key>
+			
+				<value><![CDATA[o]]></value>
+		
+			</key>
+			<key>
+			
+				<value><![CDATA[p]]></value>
+			
+			</key>
+		</row>
+		<row>
+			<key>
+			
+				<value><![CDATA[a]]></value>
+			
+			</key>
+			<key>
+	
+				<value><![CDATA[s]]></value>
+		
+			</key>
+			<key>
+			
+				<value><![CDATA[d]]></value>
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[f]]></value>
+		
+			</key>
+			<key>
+		
+				<value><![CDATA[g]]></value>
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[h]]></value>
+				
+			</key>
+			<key>
+			
+				<value><![CDATA[j]]></value>
+				
+			</key>
+			<key>
+			
+				<value><![CDATA[k]]></value>
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[l]]></value>
+			
+			</key>
+			<key>
+				<type>backspace</type>
+				<value><![CDATA[backspace]]></value>
+				<background>medium</background>
+			
+			</key>
+		</row>
+		<row>
+			<key>
+				<type>capslock</type>
+				<value><![CDATA[ABC]]></value>
+				<background>medium</background>
+			</key>
+			<key>
+				<value><![CDATA[z]]></value>
+			
+			
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[x]]></value>
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[c]]></value>
+			
+			</key>
+			<key>
+			
+				<value><![CDATA[v]]></value>
+			
+			</key>
+			<key>
+		
+				<value><![CDATA[b]]></value>
+				
+			</key>
+			<key>
+			
+				<value><![CDATA[n]]></value>
+			
+			</key>
+			<key>
+
+				<value><![CDATA[m]]></value>
+			
+			</key>
+		<key>
+		
+				<value><![CDATA[.]]></value>
+			</key>
+		</row>
+		<row>
+		
+		<key>
+				
+				<value><![CDATA[_]]></value>
+			</key>
+			<key>
+				
+				<value><![CDATA[-]]></value>
+			</key>
+			
+			<key>
+			
+				<value><![CDATA[+]]></value>
+			</key>
+			<key>
+				<type>space</type>
+			
+				<value><![CDATA[Space]]></value>
+		
+				<background>large</background>
+			</key>
+			
+			<key>
+				<type>submit</type>
+			
+				<value><![CDATA[Submit]]></value>
+		
+				<background>medium</background>
+			</key>
+			
+			
+			
+			
+		</row>
+	</layout>
+</configuration>

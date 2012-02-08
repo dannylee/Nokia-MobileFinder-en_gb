@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<solutions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <solution id="3">
+    <trackingid><![CDATA[NAVIGATION]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <title><![CDATA[Navigation]]></title>
+    <description><![CDATA[The perfect travel companion.]]></description>
+    <longdescription><![CDATA[Whether you're getting around your own city or exploring a new one, our navigation solutions will get you where you need to go.]]></longdescription>
+    <image><![CDATA[/en_gb/assets/images/52d1669f840010dd20730264c2797b447096c461.jpg]]></image>
+    <chapters>
+      <chapter id="49">
+        <trackingid><![CDATA[NAVIGATION_ARRIVE]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/67de4b12011873f8bc310f6e0566ac80b67dc714.jpg]]></image>
+        <title><![CDATA[Arrive]]></title>
+        <overlayid>2831</overlayid>
+      </chapter>
+      <chapter id="50">
+        <trackingid><![CDATA[NAVIGATION_EXPLORE]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/b2a9c656e1ebfe4a350d6a834740fafed0400eca.jpg]]></image>
+        <title><![CDATA[Explore]]></title>
+        <overlayid>2840</overlayid>
+      </chapter>
+      <chapter id="51">
+        <trackingid><![CDATA[NAVIGATION_CHECKIN]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/771a48b6c694ee25c50922dc2041bb125ebf7f52.jpg]]></image>
+        <title><![CDATA[Check-in]]></title>
+        <overlayid>2835</overlayid>
+      </chapter>
+    </chapters>
+    <devicechapter>
+      <trackingid><![CDATA[NAVIGATION_DEVICE]]></trackingid>
+      <title><![CDATA[Devices]]></title>
+      <longdescription><![CDATA[For those who prefer the journey over the destination, these phones make the perfect travel companion.  Access city guides, view maps and explore new things near and far.]]></longdescription>
+      <icon><![CDATA[/en_gb/assets/images/4143f8f80e52f9be2eec0a3e84eb1c9fa1769076.png]]></icon>
+      <image><![CDATA[/en_gb/assets/images/d2fee784b8f382fc7149b91d6e5eb4a5c72ae38a.jpg]]></image>
+      <backgroundImage><![CDATA[/en_gb/assets/images/e6f8a018cd62d36d2957f1ac710aa2861550aab4.jpg]]></backgroundImage>
+      <collection>
+        <item id="337">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="339">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+      </collection>
+    </devicechapter>
+  </solution>
+  <solution id="8">
+    <trackingid><![CDATA[GAMING]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <title><![CDATA[Gaming]]></title>
+    <description><![CDATA[Entertainment on the go.]]></description>
+    <longdescription><![CDATA[You can count on hours of fun no matter where you are all thanks to Nokia gaming solutions.]]></longdescription>
+    <image><![CDATA[/en_gb/assets/images/ce1b26b4d2ad4b10bb0c867fa5a81fa536e841c8.jpg]]></image>
+    <chapters>
+      <chapter id="52">
+        <trackingid><![CDATA[GAMING_PLAY]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/56bea3559596b839d7efea1351f2079ab3f8c324.jpg]]></image>
+        <title><![CDATA[Play]]></title>
+        <overlayid>2843</overlayid>
+      </chapter>
+      <chapter id="53">
+        <trackingid><![CDATA[GAMING_FIND]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/06ee1266e0144309f0107564779ea3829a2f91d3.jpg]]></image>
+        <title><![CDATA[Find]]></title>
+        <overlayid>2841</overlayid>
+      </chapter>
+      <chapter id="54">
+        <trackingid><![CDATA[GAMING_DOWNLOAD]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/389da9f923402ca9e4af223ae93ec8248d9b9fdf.jpg]]></image>
+        <title><![CDATA[Download]]></title>
+        <overlayid>2837</overlayid>
+      </chapter>
+    </chapters>
+    <devicechapter>
+      <trackingid><![CDATA[GAMING_DEVICE]]></trackingid>
+      <title><![CDATA[Devices]]></title>
+      <longdescription><![CDATA[Get playing anywhere with these Nokia phones that bring your favourite games and apps to life no matter where you are.]]></longdescription>
+      <icon><![CDATA[/en_gb/assets/images/4143f8f80e52f9be2eec0a3e84eb1c9fa1769076.png]]></icon>
+      <image><![CDATA[/en_gb/assets/images/4b76a499e6b19d15c6fa9681eae4fa1cfe7bc233.jpg]]></image>
+      <backgroundImage><![CDATA[/en_gb/assets/images/5346b679bdb9a5424410b77ddc525741d315adec.jpg]]></backgroundImage>
+      <collection>
+        <item id="339">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="336">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="596">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+      </collection>
+    </devicechapter>
+  </solution>
+  <solution id="4">
+    <trackingid><![CDATA[MUSIC]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <title><![CDATA[Music]]></title>
+    <description><![CDATA[Keep your music close.]]></description>
+    <longdescription><![CDATA[Find new songs or discover old ones all from your phone with Nokia music solutions.]]></longdescription>
+    <image><![CDATA[/en_gb/assets/images/0f3d24de9ade4bdc6e3747a0b3a72ff7bfe430c2.jpg]]></image>
+    <chapters>
+      <chapter id="55">
+        <trackingid><![CDATA[MUSIC_PLAY]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/cce4a1b7bf3224ff74b50eac1eba5c10b3b7c738.jpg]]></image>
+        <title><![CDATA[Play]]></title>
+        <overlayid>2844</overlayid>
+      </chapter>
+      <chapter id="56">
+        <trackingid><![CDATA[MUSIC_DISCOVER]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/a0ea8dbeece592ceeb957865fc34f16926e027c5.jpg]]></image>
+        <title><![CDATA[Discover]]></title>
+        <overlayid>2836</overlayid>
+      </chapter>
+      <chapter id="57">
+        <trackingid><![CDATA[MUSIC_LISTEN]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/0b01b7e5347a276745391aa92dbfaa41082d630f.jpg]]></image>
+        <title><![CDATA[Listen]]></title>
+        <overlayid>2842</overlayid>
+      </chapter>
+    </chapters>
+    <devicechapter>
+      <trackingid><![CDATA[MUSIC_DEVICE]]></trackingid>
+      <title><![CDATA[Devices]]></title>
+      <longdescription><![CDATA[Enjoy music on your mobile like never before with these devices that give you the best sound and space to store your favourite songs.]]></longdescription>
+      <icon><![CDATA[/en_gb/assets/images/4143f8f80e52f9be2eec0a3e84eb1c9fa1769076.png]]></icon>
+      <image><![CDATA[/en_gb/assets/images/3df858faf2e63c3debad011e4fe5fd5c8b7b2b0a.jpg]]></image>
+      <backgroundImage><![CDATA[/en_gb/assets/images/86892b5fca529ab4b9c49ab962c40d214bdb164d.jpg]]></backgroundImage>
+      <collection>
+        <item id="336">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+      </collection>
+    </devicechapter>
+  </solution>
+  <solution id="9">
+    <trackingid><![CDATA[NOKIA_STORE]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <title><![CDATA[Nokia Store]]></title>
+    <description><![CDATA[Tailor your phone to meet your lifestyle.]]></description>
+    <longdescription><![CDATA[Find everything from ringtones to apps and make your device unique to you all in the Nokia store.]]></longdescription>
+    <image><![CDATA[/en_gb/assets/images/5277c49bcb855739d8cb959319ed7e5c5f2dd145.jpg]]></image>
+    <chapters>
+      <chapter id="58">
+        <trackingid><![CDATA[NOKIA_STORE_BROWSE]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/cbd6764e7694783c604de6c42d7573e71fd48a1e.jpg]]></image>
+        <title><![CDATA[Browse]]></title>
+        <overlayid>2832</overlayid>
+      </chapter>
+      <chapter id="59">
+        <trackingid><![CDATA[NOKIA_STORE_BUY]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/8c2849c9c61e914b78cce8ca5ee97edc1662d539.jpg]]></image>
+        <title><![CDATA[Buy]]></title>
+        <overlayid>2834</overlayid>
+      </chapter>
+      <chapter id="60">
+        <trackingid><![CDATA[NOKIA_STORE_UPDATE]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/f981d8e5a9028cab92a31554bd772f8ed6e2d965.jpg]]></image>
+        <title><![CDATA[Update]]></title>
+        <overlayid>2846</overlayid>
+      </chapter>
+    </chapters>
+    <devicechapter>
+      <trackingid><![CDATA[NOKIA_STORE_DEVICE]]></trackingid>
+      <title><![CDATA[Devices]]></title>
+      <longdescription><![CDATA[Buy anything from apps to ringtones at the Nokia Store for these phones designed for personalisation.]]></longdescription>
+      <icon><![CDATA[/en_gb/assets/images/4143f8f80e52f9be2eec0a3e84eb1c9fa1769076.png]]></icon>
+      <image><![CDATA[/en_gb/assets/images/efeb209161daaa8d20d2d8940bb77327a3101b5f.jpg]]></image>
+      <backgroundImage><![CDATA[/en_gb/assets/images/23b9e291fbe4c41a9adf93f6a3f367832018ef27.jpg]]></backgroundImage>
+      <collection>
+        <item id="337">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="339">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="336">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+      </collection>
+    </devicechapter>
+  </solution>
+  <solution id="10">
+    <trackingid><![CDATA[NOKIA_WINDOWS]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <title><![CDATA[Nokia with Windows Phone]]></title>
+    <description><![CDATA[.]]></description>
+    <longdescription><![CDATA[.]]></longdescription>
+    <image><![CDATA[/en_gb/assets/images/d4e858c7baee12299351f9d11a3e34d2b58dfeba.jpg]]></image>
+    <chapters>
+      <chapter id="70">
+        <trackingid><![CDATA[NOKIA_WINDOWS_BROWSING]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/16155cee7db4a7381db585a56425d8e66e14af15.jpg]]></image>
+        <title><![CDATA[Browsing]]></title>
+        <overlayid>2833</overlayid>
+      </chapter>
+      <chapter id="71">
+        <trackingid><![CDATA[NOKIA_WINDOWS_ENTERTAINMENT]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/be943d1d8cdbfa584bb1d04ba8c479fd4bc87746.jpg]]></image>
+        <title><![CDATA[Entertainment]]></title>
+        <overlayid>2839</overlayid>
+      </chapter>
+      <chapter id="72">
+        <trackingid><![CDATA[NOKIA_WINDOWS_SOCIAL]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/aae39f514d03332f046deb4ee46d0a9e5ab6464c.jpg]]></image>
+        <title><![CDATA[Social]]></title>
+        <overlayid>2845</overlayid>
+      </chapter>
+      <chapter id="73">
+        <trackingid><![CDATA[NOKIA_WINDOWS_DRIVE]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/849c4b8638866b9fcd0ab51923da07380cfad5d4.jpg]]></image>
+        <title><![CDATA[Drive]]></title>
+        <overlayid>2838</overlayid>
+      </chapter>
+      <chapter id="74">
+        <trackingid><![CDATA[NOKIA_WINDOWS_IMAGING]]></trackingid>
+        <image><![CDATA[/en_gb/assets/images/5efa31712e2114878721423859786b9bd1040650.jpg]]></image>
+        <title><![CDATA[Imaging]]></title>
+        <overlayid>2847</overlayid>
+      </chapter>
+    </chapters>
+    <devicechapter>
+      <trackingid><![CDATA[NOKIA_WINDOWS_DEVICE]]></trackingid>
+      <title><![CDATA[Devices]]></title>
+      <longdescription><![CDATA[Check out these Nokia Windows phones to find the one that best suits your lifestyle.]]></longdescription>
+      <icon><![CDATA[/en_gb/assets/images/7093266ad86c8c6d5f9979ecbcdfc0b1f5a58244.png]]></icon>
+      <image><![CDATA[/en_gb/assets/images/9104c67441dc307f7f9ec97c06b917c66305f834.jpg]]></image>
+      <backgroundImage><![CDATA[/en_gb/assets/images/5ce7ebc46e470caf02263c4ff3f50c92d57ab56a.jpg]]></backgroundImage>
+      <collection>
+        <item id="387">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+        <item id="372">
+          <trackingid><![CDATA[]]></trackingid>
+        </item>
+      </collection>
+    </devicechapter>
+  </solution>
+</solutions>

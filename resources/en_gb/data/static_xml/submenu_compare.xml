@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- stores the menu labels for the compare devices section -->
+<compare>
+	<item id="keyfacts">
+		<label><![CDATA[Key Facts]]></label>
+		<field id="form"><![CDATA[Form]]></field>
+		<field id="size"><![CDATA[Size]]></field>
+		<field id="weight"><![CDATA[Weight]]></field>
+		<field id="input"><![CDATA[Input Method]]></field>
+		<field id="displaysize"><![CDATA[Display Size]]></field>
+		<field id="displaycolors"><![CDATA[Display Colours]]></field>
+		<field id="touchscreen"><![CDATA[Touch Screen]]></field>
+		<field id="talktime"><![CDATA[Talk time]]></field>
+		<field id="standbytime"><![CDATA[Standby time]]></field>
+		<field id="internalmemory"><![CDATA[Internal memory]]></field>
+		<field id="memorycard"><![CDATA[Memory card]]></field>
+		<field id="opfrequency"><![CDATA[Op. Frequency]]></field>
+		<field id="speakerphone"><![CDATA[Speakerphone]]></field>
+		<field id="platform"><![CDATA[Platform]]></field>
+	</item>
+	<item id="messaging">
+		<label><![CDATA[Messaging]]></label>
+		<field id="mms"><![CDATA[MMS]]></field>
+		<field id="email"><![CDATA[Email]]></field>
+		<field id="chat"><![CDATA[Chat]]></field>
+		<field id="videocalling"><![CDATA[Video Calling]]></field>
+		<field id="push2talk"><![CDATA[Push2Talk]]></field>
+	</item>
+	<item id="camera">
+		<label><![CDATA[Camera]]></label>
+		<field id="megapixels"><![CDATA[Megapixels]]></field>
+		<field id="resolution"><![CDATA[Resolution]]></field>
+		<field id="zoom"><![CDATA[Zoom]]></field>
+		<field id="autofocus"><![CDATA[Autofocus]]></field>
+		<field id="flash"><![CDATA[Flash]]></field>
+	</item>
+	<item id="video">
+		<label><![CDATA[Video]]></label>
+		<field id="fps"><![CDATA[FPS]]></field>
+		<field id="videoresolution"><![CDATA[Video Resolution]]></field>
+		<field id="capacity"><![CDATA[Capacity]]></field>
+		<field id="videoviewing"><![CDATA[Video Viewing]]></field>
+		<field id="videoformats"><![CDATA[Video Formats]]></field>
+	</item>
+	<item id="internet">
+		<label><![CDATA[Internet]]></label>
+		<field id="browser"><![CDATA[Browser]]></field>
+		<field id="musicplayer"><![CDATA[Music Player]]></field>
+		<field id="realplayer"><![CDATA[Real Player]]></field>
+		<field id="fmradio"><![CDATA[FM Radio]]></field>
+	</item>
+	<item id="connectivity">
+		<label><![CDATA[Connectivity]]></label>
+		<field id="bluetooth"><![CDATA[BlueTooth]]></field>
+		<field id="wlan"><![CDATA[WLAN]]></field>
+		<field id="gprs"><![CDATA[GPRS]]></field>
+		<field id="edge"><![CDATA[EDGE]]></field>
+		<field id="wcdma"><![CDATA[WCDMA]]></field>
+		<field id="hsdpa"><![CDATA[HSDPA]]></field>
+	</item>
+	<item id="carsolutions">
+		<label><![CDATA[Car Solution]]></label>
+		<field id="carkits"><![CDATA[Car Kits]]></field>
+	</item>
+	<item id="accessories">
+		<label><![CDATA[Accessories]]></label>
+		<field id="includedpackage"><![CDATA[Included in Package]]></field>
+	</item>
+	<item id="recommendedaccessories">
+		<label><![CDATA[Recommended Accessories]]></label>
+		<field id="recommendedaccessories"><![CDATA[Recommended Accessories]]></field>
+	</item>
+</compare>

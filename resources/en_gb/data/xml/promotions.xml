@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<promotions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <promotion id="15" type="campaign_2">
+    <trackingid><![CDATA[NOKIA_800_CAMPAIGN]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <name><![CDATA[Nokia Lumia 800 ]]></name>
+    <headline><![CDATA[Easier, Faster, Funner]]></headline>
+    <description><![CDATA[Introducing the all new Nokia Windows phone. Enjoy the expert design of Nokia and the genius of Windows all on your phone. Be more productive, stay better connected and never miss a thing with a phone designed to go above and beyond your expectations.
+
+THE AMAZING EVERYDAY]]></description>
+    <thumbnailimage><![CDATA[/en_gb/assets/images/7c4888698e6a63f39bb499b2c50411ef38b428bc.jpg]]></thumbnailimage>
+    <backgroundimage><![CDATA[/en_gb/assets/images/5ebe8d1d8946032af52270b329ea50b33dc752b4.jpg]]></backgroundimage>
+    <heroimage><![CDATA[/en_gb/assets/images/a5a258312cb96b6853eb9be578ed6a43171585ff.png]]></heroimage>
+    <video><![CDATA[]]></video>
+    <videothumbnail><![CDATA[]]></videothumbnail>
+    <device id="372" />
+    <applications />
+    <accessories />
+    <extras />
+  </promotion>
+  <promotion id="48" type="offer_2">
+    <trackingid><![CDATA[N701_OFFER]]></trackingid>
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <name><![CDATA[N701 Offer]]></name>
+    <headline><![CDATA[Get 20% off a Nokia J headset]]></headline>
+    <description><![CDATA[The  cutting edge technology of the Nokia 701 partnered with the awarding-winning design of the Nokia J make a powerful team. Get handsfree calling and superior sound for 20% less when you buy a Nokia 701.]]></description>
+    <thumbnailimage><![CDATA[/en_gb/assets/images/c43982de4063e6d2480960b8a05288d4d80a5fe2.jpg]]></thumbnailimage>
+    <backgroundimage><![CDATA[/en_gb/assets/images/d6ffe2def8440cb59e4766bab66fca5c24165d48.jpg]]></backgroundimage>
+    <heroimage><![CDATA[/en_gb/assets/images/28d60d382c07f3ba3b8836e8bf47740b015769df.png]]></heroimage>
+    <video><![CDATA[]]></video>
+    <videothumbnail><![CDATA[]]></videothumbnail>
+    <device id="337" />
+    <applications />
+    <accessories>
+      <item id="503">
+        <trackingid><![CDATA[NOKIA_J]]></trackingid>
+      </item>
+    </accessories>
+    <extras />
+  </promotion>
+</promotions>

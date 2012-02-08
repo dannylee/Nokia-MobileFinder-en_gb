@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- stores the menu labels for the tech specs section, could expand should that section require more copy content. -->
+
+<techSpecs>
+	
+	<item id="hardware">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/hardware.png]]></image>	
+	   <label><![CDATA[Hardware]]></label>
+	</item>
+	
+	<item id="design">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/design.png]]></image>	
+	   <label><![CDATA[Design]]></label>
+	</item>
+	
+	<item id="software">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/softwareandapps.png]]></image>	
+	   <label><![CDATA[Software & Applications]]></label>
+	</item>
+	
+	<item id="communications">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/communication.png]]></image>	
+	   <label><![CDATA[Communications]]></label>
+	</item>
+	
+	<item id="sharing">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/sharingandinternet.png]]></image>	
+	   <label><![CDATA[Sharing & Internet]]></label>
+	</item>	
+	
+	<item id="navigation">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/navigation.png]]></image>	
+	   <label><![CDATA[Navigation]]></label>
+	</item>	
+	
+	<item id="photography">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/photoandvideo.png]]></image>	
+	   <label><![CDATA[Photography]]></label>
+	</item>	
+	
+	<item id="video">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/photoandvideo.png]]></image>	
+	   <label><![CDATA[Video]]></label>
+	</item>			
+	
+	<item id="music">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/musicandaudio.png]]></image>	
+	   <label><![CDATA[Music & Audio]]></label>
+	</item>	
+	
+	<item id="gaming">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/gaming.png]]></image>	
+	   <label><![CDATA[Gaming]]></label>
+	</item>
+	
+	<item id="environmental">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/environmental_features.png]]></image>	
+	   <label><![CDATA[Environmental]]></label>
+	</item>
+	
+	<item id="package">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/packagecontents.png]]></image>	
+	   <label><![CDATA[Package Contents]]></label>
+	</item>	
+	
+	<item id="accessories">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/accessories.png]]></image>	
+	   <label><![CDATA[Accessories]]></label>
+	</item>
+	
+	<item id="preinstalled">
+	   <image><![CDATA[/en_gb/assets/static_images/techspecs/menu/pre-installedsoftware.png]]></image>	
+	   <label><![CDATA[Pre-installed Software]]></label>
+	</item>
+	
+</techSpecs>

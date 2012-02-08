@@ -1,0 +1,1917 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accessories xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <accessory id="475">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MU_44]]></trackingid>
+    <name><![CDATA[16GB MicroSD Card MU-44]]></name>
+    <icon><![CDATA[/en_gb/assets/images/816a30499fa80892f7101d80067125a82398e811.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/32da23330268020986ca957eb1f31f44062d0dd4.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[A little card, a lot of space]]></shortdescription>
+    <longdescription><![CDATA[Get 16GB of space on your phone simply by switching your microSD card. You can store more and delete less without worrying about running out of room for your favourite things.]]></longdescription>
+    <colours>
+      <colour id="2364">
+        <trackingid><![CDATA[MU_44_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/32da23330268020986ca957eb1f31f44062d0dd4.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="476">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MU_45]]></trackingid>
+    <name><![CDATA[32GB MicroSD Card MU-45]]></name>
+    <icon><![CDATA[/en_gb/assets/images/2e41b282fa8ee8a1fbae2519a05477d5fdbfc74d.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/bd62051ba95501681f03baad1abfb44e643a326c.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Room for everything]]></shortdescription>
+    <longdescription><![CDATA[Never have to choose what to keep and what to delete with the 32 GB microSDHC card. Upload more music, take more photos and download more games and applications without worrying about space.]]></longdescription>
+    <colours>
+      <colour id="2365">
+        <trackingid><![CDATA[MU_45_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/bd62051ba95501681f03baad1abfb44e643a326c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="477">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MU_43]]></trackingid>
+    <name><![CDATA[8GB MicroSD Card MU-43]]></name>
+    <icon><![CDATA[/en_gb/assets/images/0bf1d27fc445a00495948653ddce90e4e5be75b0.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/e05021d29156d7072c8640d8c737c116d6df26d7.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Store more on your phone]]></shortdescription>
+    <longdescription><![CDATA[Keep more of your music, photos, games and other applications at the ready with the 8GB Micro SD.]]></longdescription>
+    <colours>
+      <colour id="2366">
+        <trackingid><![CDATA[MU_43_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e05021d29156d7072c8640d8c737c116d6df26d7.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="478">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[AC_10]]></trackingid>
+    <name><![CDATA[AC-10]]></name>
+    <icon><![CDATA[/en_gb/assets/images/b3ecb705df43e55e4df05725d5a3745407ab7c56.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/5e534815aa1dfe441d25761ab965fe37533b7d6b.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Energy efficient and power smart]]></shortdescription>
+    <longdescription><![CDATA[The Nokia AC-10 is portable and light so you’ll never run out of power when you’re travelling. Environmentally friendly, it consumes minimal energy once your devices is done charging if left plugged in.]]></longdescription>
+    <colours>
+      <colour id="2367">
+        <trackingid><![CDATA[AC_10_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/5e534815aa1dfe441d25761ab965fe37533b7d6b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="485">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_108]]></trackingid>
+    <name><![CDATA[BH-108]]></name>
+    <icon><![CDATA[/en_gb/assets/images/d2f0a741661cecd903d7d0504cb152e9166671fb.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/7cc9223a0646d46203efd3f67a33a06c188a1e48.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Multitask]]></shortdescription>
+    <longdescription><![CDATA[Get a lot done at once with Nokia Bluetooth headset that’s designed to fit securely around your ear leaving your hands free to do work. Turn the headset on or off or manage calls all from the multifunction button that keeps you in control.]]></longdescription>
+    <colours>
+      <colour id="2374">
+        <trackingid><![CDATA[BH_108_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/7cc9223a0646d46203efd3f67a33a06c188a1e48.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2375">
+        <trackingid><![CDATA[BH_108_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/69ed70249214a5688ffef9a28d1549d68bcbf632.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="486">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_109]]></trackingid>
+    <name><![CDATA[BH-109]]></name>
+    <icon><![CDATA[/en_gb/assets/images/af9ef0edbe0a81e95df397913369264892d1027a.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/cc0a63efbeb68fcaec4e54f998e1b530092ff7de.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Make calls anywhere]]></shortdescription>
+    <longdescription><![CDATA[Be heard even in busy environments with the noise-reducing headset. The ergonomic hook keeps it securely in place while the powerful battery gives you up to eight hours of talk time.]]></longdescription>
+    <colours>
+      <colour id="2376">
+        <trackingid><![CDATA[BH_109_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/cc0a63efbeb68fcaec4e54f998e1b530092ff7de.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2377">
+        <trackingid><![CDATA[BH_109_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/89eba75e0aa047528912e4f67258f4023971dc33.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1101">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH-110]]></trackingid>
+    <name><![CDATA[BH-110]]></name>
+    <icon><![CDATA[/en_gb/assets/images/8a28b018effa33ecb50e53ba4709f6ad9e881359.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Lorem ipsum dolor sit amet.]]></shortdescription>
+    <longdescription><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula tortor a purus viverra iaculis. Curabitur viverra laoreet neque, ac fringilla ligula mattis sit amet. Aliquam interdum dignissim risus vel ornare. Nunc sed ligula ipsum. Curabitur quis dolor sed diam venenatis varius. Nam vitae sapien at enim hendrerit mattis nec id mi. Sed vel magna nulla, lacinia egestas sem. In mattis rutrum felis nec semper. Etiam id tellus in libero feugiat fringilla eget et augue. Vivamus quis arcu massa, vel tincidunt mauris. In augue mauris, fringilla sed mollis quis, interdum tincidunt mi.]]></longdescription>
+    <colours>
+      <colour id="4920">
+        <trackingid><![CDATA[BH-110_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[]]></name>
+        <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1103">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH-110-2]]></trackingid>
+    <name><![CDATA[BH-110]]></name>
+    <icon><![CDATA[/en_gb/assets/images/8a28b018effa33ecb50e53ba4709f6ad9e881359.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Lorem ipsum dolor sit amet.]]></shortdescription>
+    <longdescription><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula tortor a purus viverra iaculis. Curabitur viverra laoreet neque, ac fringilla ligula mattis sit amet. Aliquam interdum dignissim risus vel ornare. Nunc sed ligula ipsum. Curabitur quis dolor sed diam venenatis varius. Nam vitae sapien at enim hendrerit mattis nec id mi. Sed vel magna nulla, lacinia egestas sem. In mattis rutrum felis nec semper. Etiam id tellus in libero feugiat fringilla eget et augue. Vivamus quis arcu massa, vel tincidunt mauris. In augue mauris, fringilla sed mollis quis, interdum tincidunt mi.]]></longdescription>
+    <colours>
+      <colour id="4923">
+        <trackingid><![CDATA[BH-110_BLACK_2]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[]]></name>
+        <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1170">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_110]]></trackingid>
+    <name><![CDATA[BH-110]]></name>
+    <icon><![CDATA[/en_gb/assets/images/8a28b018effa33ecb50e53ba4709f6ad9e881359.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[One great headset for all.]]></shortdescription>
+    <longdescription><![CDATA[Make hands-free calls from two phones all from the Nokia Bluetooth Headset BH-110. Stay safe while talking on the phone and enjoy clear audio for increased productivity no matter where you are.]]></longdescription>
+    <colours>
+      <colour id="5065">
+        <trackingid><![CDATA[BH_110_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/80b7cfb84432e5170610e13919fd7c4f86fa415b.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/8a28b018effa33ecb50e53ba4709f6ad9e881359.png]]></basketicon>
+      </colour>
+      <colour id="5066">
+        <trackingid><![CDATA[BH_110_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/1da99fb3bce83719a72fa1819469bf280128b68b.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/72da61268766aa20eb25d2954cb26b79f8a64367.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="487">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_111]]></trackingid>
+    <name><![CDATA[BH-111]]></name>
+    <icon><![CDATA[/en_gb/assets/images/af4d9b61d242602227ecf8dca7bdbe58221721f8.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/cc7f5b856aa66da56201fc3102f42b7849181f45.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Wireless music with style]]></shortdescription>
+    <longdescription><![CDATA[Be true to your style without sacrificing quality sound thanks to the BH-111 headset available in five colours. With a convenient clip and embossed buttons, you can switch effortlessly between music and calls all on-the-go. The device connects through Bluetooth to your phone so you can enjoy wireless music and calls with clear audio through the earpieces designed to fit snuggly in your ears and block out outdoor sound.]]></longdescription>
+    <colours>
+      <colour id="2378">
+        <trackingid><![CDATA[BH_111_LIME]]></trackingid>
+        <hex><![CDATA[0x7fff00]]></hex>
+        <name><![CDATA[Lime]]></name>
+        <image><![CDATA[/en_gb/assets/images/cc7f5b856aa66da56201fc3102f42b7849181f45.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2379">
+        <trackingid><![CDATA[BH_111_AZURE]]></trackingid>
+        <hex><![CDATA[0x82baf2]]></hex>
+        <name><![CDATA[Azure]]></name>
+        <image><![CDATA[/en_gb/assets/images/191767049f16ee49e571402a0af5a314b4e47d13.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2380">
+        <trackingid><![CDATA[BH_111_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/157254e6bb85893e98b3a61e2f88aae8b4236bfe.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2381">
+        <trackingid><![CDATA[BH_111_RED]]></trackingid>
+        <hex><![CDATA[0xff0077]]></hex>
+        <name><![CDATA[Red]]></name>
+        <image><![CDATA[/en_gb/assets/images/7095364c4883b002eaf5d5b4f3b38ec733644708.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2382">
+        <trackingid><![CDATA[BH_111_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/798059fb41252f5b5f76961a58d23d7d811a936d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1171">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_112]]></trackingid>
+    <name><![CDATA[BH-112]]></name>
+    <icon><![CDATA[/en_gb/assets/images/0d2e3a770aceda29104e50a69abe83d84f533322.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/b2ac026063ac845b773f0c9a20c32c09a994efe0.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Get the right fit.]]></shortdescription>
+    <longdescription><![CDATA[With the Nokia Bluetooth Headset BH-112, choose from five vibrant colours, three ear buds and two ear loop sizes so you get a headset to match your style and one that's sure to fit. The headset pairs easily with your phone so you can make hands-free calls or connect to two phones at once.]]></longdescription>
+    <colours>
+      <colour id="5067">
+        <trackingid><![CDATA[BH_112_GREEN]]></trackingid>
+        <hex><![CDATA[0x00ff00]]></hex>
+        <name><![CDATA[Green]]></name>
+        <image><![CDATA[/en_gb/assets/images/b2ac026063ac845b773f0c9a20c32c09a994efe0.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/0d2e3a770aceda29104e50a69abe83d84f533322.png]]></basketicon>
+      </colour>
+      <colour id="5068">
+        <trackingid><![CDATA[BH_112_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/44fc16d99e6ff825bbfd17d1aa07f66ad639253f.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/a5f7c9db841c3eff36da50de5c2fddd20511d90a.png]]></basketicon>
+      </colour>
+      <colour id="5069">
+        <trackingid><![CDATA[BH_112_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/15ef3c039b6c6798eec8fc3940cbf10fe5f68e93.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/5e5f9142c758bfd0a6078adc95c2399a810662b8.png]]></basketicon>
+      </colour>
+      <colour id="5070">
+        <trackingid><![CDATA[BH_112_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/41fb487be28ce4857f19c305247e0d50e7927f46.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/f9915df8e0d1e68ff4712d39a7625d73f57742a8.png]]></basketicon>
+      </colour>
+      <colour id="5071">
+        <trackingid><![CDATA[BH_112_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/589d81e4d9dd9f420309797055f87f0ed29812a7.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/ed39f5823354c9e03e31ffd55e3caf78cc1c0720.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="488">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_217]]></trackingid>
+    <name><![CDATA[BH-217]]></name>
+    <icon><![CDATA[/en_gb/assets/images/99f28ea3123bd39e15072418c2669db67de29ca9.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/15288ae6c44e77266789fb4c78b3df9913b0f0e0.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Convenient calling]]></shortdescription>
+    <longdescription><![CDATA[Connect to two phones at once and enjoy clearer sound with the Nokia Bluetooth headset. The smart device lets you answer calls from the headset  and enjoy clear sound with DSP noise reduction technology.]]></longdescription>
+    <colours>
+      <colour id="2383">
+        <trackingid><![CDATA[BH_217_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/15288ae6c44e77266789fb4c78b3df9913b0f0e0.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2384">
+        <trackingid><![CDATA[BH_217_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/cd1e0cb2aef7f4c6528d9e8d554b4ca5c5b76990.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="489">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_218]]></trackingid>
+    <name><![CDATA[BH-218]]></name>
+    <icon><![CDATA[/en_gb/assets/images/50cfdf50609007174f2a8a0f086ee9336204ee24.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/6e8db076489ccb5fab49be578a9dde3478fd0470.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Hear well and be heard]]></shortdescription>
+    <longdescription><![CDATA[Whether you’re talking or listening, get great call quality using the noise-reducing headset with an earpiece and microphone. You can make calls conveniently and quickly while keeping your hands free to do work.]]></longdescription>
+    <colours>
+      <colour id="2385">
+        <trackingid><![CDATA[BH_218_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/6e8db076489ccb5fab49be578a9dde3478fd0470.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2386">
+        <trackingid><![CDATA[BH_218_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/96b75fab6fcee657c19155efa865cec191d86320.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="490">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_219]]></trackingid>
+    <name><![CDATA[BH-219]]></name>
+    <icon><![CDATA[/en_gb/assets/images/6778ebb23fbd510003e012ae2a87161b1431ad3f.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/89ee7bece0f610b10488a88678dfa8f96f0b95d5.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Connect quickly and talk handsfree]]></shortdescription>
+    <longdescription><![CDATA[Enjoy wireless talking in seconds with this NFC-enabled headset that lets you tap to connect an NFC-enabled device and talk on the go. You’ll always be heard thanks to the smart BH-219 which adjusts the volume automatically based on surrounding noise ensuring clear calls and superior audio.]]></longdescription>
+    <colours>
+      <colour id="2387">
+        <trackingid><![CDATA[BH_219_BLACK_]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/89ee7bece0f610b10488a88678dfa8f96f0b95d5.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2388">
+        <trackingid><![CDATA[BH_219_WHITE_]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/4afd69c8adcfe84ec4b0ba4a600a94a9e36f7919.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1169">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_220]]></trackingid>
+    <name><![CDATA[BH-220]]></name>
+    <icon><![CDATA[/en_gb/assets/images/e7787bac22669c3f07044ee0d692483e633182f3.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/710906a966f38b208eea892d0b3d0e0233afc534.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Stunning design. Superior sound.]]></shortdescription>
+    <longdescription><![CDATA[Nokia's new Luna headset brings you the best of Bluetooth and NFC technology in a colourful and clever package. Just press the centre to pop out the headset and push it back to store and charge. Touch your NFC-enabled phone to pair the devices together then get to talking and listening with crystal clear audio.]]></longdescription>
+    <colours>
+      <colour id="5060">
+        <trackingid><![CDATA[BH_220_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/710906a966f38b208eea892d0b3d0e0233afc534.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/e7787bac22669c3f07044ee0d692483e633182f3.png]]></basketicon>
+      </colour>
+      <colour id="5061">
+        <trackingid><![CDATA[BH_220_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="5062">
+        <trackingid><![CDATA[BH_220_GREEN]]></trackingid>
+        <hex><![CDATA[0x00ff00]]></hex>
+        <name><![CDATA[Green]]></name>
+        <image><![CDATA[]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="5063">
+        <trackingid><![CDATA[BH_220_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="5064">
+        <trackingid><![CDATA[BH_220_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="491">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_609]]></trackingid>
+    <name><![CDATA[BH-609]]></name>
+    <icon><![CDATA[/en_gb/assets/images/7772543e79f6dcea782c7d31a2ffcbf7db3bb314.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/6ec26dc7ce319643d705a5aaa874cee441a82e9d.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Great design, better sound]]></shortdescription>
+    <longdescription><![CDATA[Keep your ands free to work while enjoying clear calls. The advanced audio system on the BH-609 with a powerful speaker and wind-noise reduction ensures you’ll be heard and hear well. Talk for up to two hours after only 15 minutes of charging or six hours when fully charged all in ultimate comfort with the adjustable ear loop and range of ear pads.]]></longdescription>
+    <colours>
+      <colour id="2525">
+        <trackingid><![CDATA[BH_609_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/6ec26dc7ce319643d705a5aaa874cee441a82e9d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2526">
+        <trackingid><![CDATA[BH_609_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/e050aeae5e92222013d320ca995d1cbd5cb8da43.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="492">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_905I]]></trackingid>
+    <name><![CDATA[BH-905i]]></name>
+    <icon><![CDATA[/en_gb/assets/images/fb70afc96c28894874eeab3bccc999075ba66a5b.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/d34e45e1727aa84cd6e46f5c09ce1d65dea7179c.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Cancel noise, enhance audio]]></shortdescription>
+    <longdescription><![CDATA[Get more from your music and enjoy clear calls with the Bluetooth Stereo Headset that lets you choose between wired or wireless sound. Designed to give you the best audio quality, the BH-905i is perfect for travelling and relaxing due to its light weight and noise-cancelling technology.]]></longdescription>
+    <colours>
+      <colour id="2527">
+        <trackingid><![CDATA[BH_905I_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/d34e45e1727aa84cd6e46f5c09ce1d65dea7179c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2528">
+        <trackingid><![CDATA[BH_905I_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/8a979cc1d1d780f760c3bd87c22e2fe807838784.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="493">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_105]]></trackingid>
+    <name><![CDATA[Bluetooth Headset BH-105]]></name>
+    <icon><![CDATA[/en_gb/assets/images/33a28794888eae99f7c7febbe7f3a2e845cdab38.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/2f90d1735b0e191e7b11dfdcc7e91057508f594e.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Enjoy the freedom of handsfree communication]]></shortdescription>
+    <longdescription><![CDATA[Chat freely from your car, walking or at home with the headset that fits comfortably on your ear. With five and a half hours of talk time and lightweight design, being productive on the move is easy.]]></longdescription>
+    <colours>
+      <colour id="2716">
+        <trackingid><![CDATA[BH_105_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/2f90d1735b0e191e7b11dfdcc7e91057508f594e.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2717">
+        <trackingid><![CDATA[BH_105_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/68479699feedfa13a6f9bf7a7c849c16e44ef861.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="497">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_608]]></trackingid>
+    <name><![CDATA[Bluetooth Headset BH-608]]></name>
+    <icon><![CDATA[/en_gb/assets/images/acee0f2a8fe806164e408ed9b415589650dcef78.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/a1709422ef9b147beca1f92d3021dabb024aa47d.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Bring clarity to every call]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Bluetooth Headset BH-608 offers superior audio quality for all your handsfree calls – simply clip on and connect. Enjoy crystal-clear audio quality in different environments with DSP noise cancellation technology. With the mic built into the wire, your speech is enhanced on every call.]]></longdescription>
+    <colours>
+      <colour id="2724">
+        <trackingid><![CDATA[BH_608_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/a1709422ef9b147beca1f92d3021dabb024aa47d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2725">
+        <trackingid><![CDATA[BH_608_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/d477456dc7995a733a639bd4c89d7b406ddb287b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="499">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_214]]></trackingid>
+    <name><![CDATA[Bluetooth Stereo Headset BH-214]]></name>
+    <icon><![CDATA[/en_gb/assets/images/21033d9aa9b78340c30a0727136fe2236bd29491.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/aa8542a27828cf2a42174a9b1fac7f49f56c0ea0.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Music and calls on the run]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Bluetooth Stereo Headset BH-214 is a lightweight handsfree headset that clips on to help keep you entertained and connected throughout the day. Access your favourite music tracks and manage your calls with the convenient, easy-to-use keys.]]></longdescription>
+    <colours>
+      <colour id="2729">
+        <trackingid><![CDATA[BH_214_AZURE]]></trackingid>
+        <hex><![CDATA[0x82baf2]]></hex>
+        <name><![CDATA[Azure]]></name>
+        <image><![CDATA[/en_gb/assets/images/aa8542a27828cf2a42174a9b1fac7f49f56c0ea0.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2730">
+        <trackingid><![CDATA[BH_214_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/4af7cd19959d40eefc3f9e90701b88f8395621c1.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2731">
+        <trackingid><![CDATA[BH_214_STONE]]></trackingid>
+        <hex><![CDATA[0x4c4c4c]]></hex>
+        <name><![CDATA[Stone]]></name>
+        <image><![CDATA[/en_gb/assets/images/a7bf2dc80b503bfa1bb872d86d22584f0cdd85d8.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="500">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_504]]></trackingid>
+    <name><![CDATA[Bluetooth Stereo Headset BH-504]]></name>
+    <icon><![CDATA[/en_gb/assets/images/5a87ca0d54c3b09b6d92228aa08502d97561bbba.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/29f53e8d5a7501b4ca66e94850b57ae55fd6a43d.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Play hard, listen softly]]></shortdescription>
+    <longdescription><![CDATA[Get high quality handsfree sound - for music or for calls - with this stylish and adjustable Bluetooth stereo headset. Use the advanced sound control features to hear and be heard when making and taking calls.]]></longdescription>
+    <colours>
+      <colour id="2721">
+        <trackingid><![CDATA[BH_504_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/29f53e8d5a7501b4ca66e94850b57ae55fd6a43d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="501">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_505]]></trackingid>
+    <name><![CDATA[Bluetooth Stereo Headset BH-505]]></name>
+    <icon><![CDATA[/en_gb/assets/images/7644ae1a84c8eba823d06519c97c9c40035c03af.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/1320a1f43d082c037541722c643ceffd54d09de5.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Stay active. Stay entertained.]]></shortdescription>
+    <longdescription><![CDATA[Enjoy superior sound quality in noisy or windy environments with DSP (digital signal processing) technology – ideal for all your outdoor activities.This wireless headset is splash resistant and features easy-to-reach music and call keys.]]></longdescription>
+    <colours>
+      <colour id="2733">
+        <trackingid><![CDATA[BH_505_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/1320a1f43d082c037541722c643ceffd54d09de5.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="502">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_905]]></trackingid>
+    <name><![CDATA[Bluetooth Stereo Headset BH-905]]></name>
+    <icon><![CDATA[/en_gb/assets/images/06314bbbd1e9a8b995cf2277a36e34950fbf778f.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/d9693e0b4c6ac1cb70a9425879edd7e811af481c.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[A symphony of sound and silence]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Bluetooth Stereo Headset BH-905 features revolutionary technology that cancels out background noise and brings optimal clarity to your calls and your music.Enjoy crystal clear music and calls with state-of-the-art active noise cancellation technology – or simply relax in silence when you need a moment to yourself.]]></longdescription>
+    <colours>
+      <colour id="2719">
+        <trackingid><![CDATA[BH_905_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/d9693e0b4c6ac1cb70a9425879edd7e811af481c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1176">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CC_1031]]></trackingid>
+    <name><![CDATA[CC-1031]]></name>
+    <icon><![CDATA[/en_gb/assets/images/ba9cfe0b852ae3a0cc1d0273d5354fb19d3a3a0b.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/9f245881b5464707f6778557149610a2e3937c23.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Flexible and fun covers.]]></shortdescription>
+    <longdescription><![CDATA[Protect your Nokia Lumia without compromising on style. Choose from five different coloured soft covers that offer easy access to your phone while keeping it safe.]]></longdescription>
+    <colours>
+      <colour id="5086">
+        <trackingid><![CDATA[CC_1031_RED]]></trackingid>
+        <hex><![CDATA[0xff0000]]></hex>
+        <name><![CDATA[Red]]></name>
+        <image><![CDATA[/en_gb/assets/images/9f245881b5464707f6778557149610a2e3937c23.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/ba9cfe0b852ae3a0cc1d0273d5354fb19d3a3a0b.png]]></basketicon>
+      </colour>
+      <colour id="5087">
+        <trackingid><![CDATA[CC_1031_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/2dbf0bd8d893c07673613c213640866ede3051c1.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/b82ba2662111481eb94b5e7df00dd0b6ecc785bb.png]]></basketicon>
+      </colour>
+      <colour id="5088">
+        <trackingid><![CDATA[CC_1031_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/552deb4ccb3abac81f86f4dedc78decb31ae55a1.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/a8afee96cebf959550c1b23b7bb4e0d92ad2f3d2.png]]></basketicon>
+      </colour>
+      <colour id="5089">
+        <trackingid><![CDATA[CC_1031_GREEN]]></trackingid>
+        <hex><![CDATA[0x00ff00]]></hex>
+        <name><![CDATA[Green]]></name>
+        <image><![CDATA[/en_gb/assets/images/65420b0dbd086f52768881c61cdb33e3c58e1e82.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/76250e43b884098f59744504cfa1e1994310cb68.png]]></basketicon>
+      </colour>
+      <colour id="5090">
+        <trackingid><![CDATA[CC_1031_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/d20e68e19e00d14157eb6b1f73abea1ea0ff83f1.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/09022543084240d69dc224c558e02519b158e3b9.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1174">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CC_3032]]></trackingid>
+    <name><![CDATA[CC-3032]]></name>
+    <icon><![CDATA[/en_gb/assets/images/954b560f89507d66be1a34d6eec5234592aeb6e5.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/a7889e312f8a93e62cb5fe296881a9e20241915c.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Keep your phone protected and looking good.]]></shortdescription>
+    <longdescription><![CDATA[Choose from four different coloured Nokia hard covers that keep your phone safe and easily accessible. Nokia devices are already built strong, but for those unpredictable moments the CC-3032 provides reliable protection.]]></longdescription>
+    <colours>
+      <colour id="5078">
+        <trackingid><![CDATA[CC_3032_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/a7889e312f8a93e62cb5fe296881a9e20241915c.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/954b560f89507d66be1a34d6eec5234592aeb6e5.png]]></basketicon>
+      </colour>
+      <colour id="5079">
+        <trackingid><![CDATA[CC_3032_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/76a21045a5002ec7ee562526087f59353b17d87d.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/5ed6bfa1d79d4959fa33f956c62f6396c77f847f.png]]></basketicon>
+      </colour>
+      <colour id="5080">
+        <trackingid><![CDATA[CC_3032_GREY]]></trackingid>
+        <hex><![CDATA[0xcccccc]]></hex>
+        <name><![CDATA[Grey]]></name>
+        <image><![CDATA[/en_gb/assets/images/08605a453e986595503393c72c6de94fd29ace82.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/7eb8c511423ebef35444d7feb4f24501501038b0.png]]></basketicon>
+      </colour>
+      <colour id="5081">
+        <trackingid><![CDATA[CC_3032_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/681844233ae1f16d45c2f3b7c87439741ba7c879.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/2c4bdec9bd691b8f52254d8e1ce65587fa098323.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1175">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CC_3033]]></trackingid>
+    <name><![CDATA[CC-3033]]></name>
+    <icon><![CDATA[/en_gb/assets/images/d520933c48dcaf15ee70c19d8af3beeb0b4dbfe4.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/dc72cd956e35192f45b5957831a9c0ac8c143a43.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Change things up.]]></shortdescription>
+    <longdescription><![CDATA[Choose from five different battery covers to make your Nokia more unique. The Nokia Xpress-on covers take seconds to change and give your phone a whole new look that expresses your colourful side.]]></longdescription>
+    <colours>
+      <colour id="5082">
+        <trackingid><![CDATA[CC_3033_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/dc72cd956e35192f45b5957831a9c0ac8c143a43.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/d520933c48dcaf15ee70c19d8af3beeb0b4dbfe4.png]]></basketicon>
+      </colour>
+      <colour id="5083">
+        <trackingid><![CDATA[CC_3033_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/ce4280c69435153bb6f3ec6fe494a32768e087e1.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/ec353b338b3a37291d2143d5d792acb3c9ecfd79.png]]></basketicon>
+      </colour>
+      <colour id="5084">
+        <trackingid><![CDATA[CC_3033_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/9ae718ee243b07f6aaa404b5e1725ad778c841f4.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/d89932a39b43ea509dc2f50530895a94d5c72bf8.png]]></basketicon>
+      </colour>
+      <colour id="5085">
+        <trackingid><![CDATA[CC_3033_YELLOW]]></trackingid>
+        <hex><![CDATA[0xffff00]]></hex>
+        <name><![CDATA[Yellow]]></name>
+        <image><![CDATA[/en_gb/assets/images/1e66ceebdc6f63e4504ef36515f4f664c12c303a.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/809e03ffd73bded63c05509cf372ea9c882a7d78.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1177">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CC_3036]]></trackingid>
+    <name><![CDATA[CC-3036]]></name>
+    <icon><![CDATA[/en_gb/assets/images/683a768935b08babe96cdd20329432bb7d7b441d.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/059e748d15c7444593a05e23673d7763da31cd87.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Here come the Angry Birds to protect your phone!]]></shortdescription>
+    <longdescription><![CDATA[Can't get enough Angry Birds? Keep them even closer on your phone with the Nokia CC-3036 Angry Birds Edition. The hard cover takes seconds to put and will keep your phone protected and looking good for a long time.]]></longdescription>
+    <colours>
+      <colour id="5091">
+        <trackingid><![CDATA[CC_3036_RED]]></trackingid>
+        <hex><![CDATA[0xff0000]]></hex>
+        <name><![CDATA[RED]]></name>
+        <image><![CDATA[/en_gb/assets/images/059e748d15c7444593a05e23673d7763da31cd87.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/683a768935b08babe96cdd20329432bb7d7b441d.png]]></basketicon>
+      </colour>
+      <colour id="5092">
+        <trackingid><![CDATA[CC_3036_PINK]]></trackingid>
+        <hex><![CDATA[0xffaaaa]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/86fa684501a57e5575572ca0d92924522b609b26.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/104b19e93bb915cb27075459f21c93fe54bfaff5.png]]></basketicon>
+      </colour>
+      <colour id="5093">
+        <trackingid><![CDATA[CC_3036_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/3e0b00d5bef24912e540db9b221837e857ca2ad3.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/8d587c691dafe4b9fadc7dd29e2b8f6a752272b8.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="455">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CK_200]]></trackingid>
+    <name><![CDATA[CK-200]]></name>
+    <icon><![CDATA[/en_gb/assets/images/5a3416c56c2821921fbbb310eaf157a8b8af23be.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/21cfba78ca575be1db8563e842dd3b1642dcc5ac.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Be productive on the road]]></shortdescription>
+    <longdescription><![CDATA[You can get more done in the car with the Nokia Car Kit that lets you connect two phones to one device. See who’s calling on the clear display, receive SMS messages and enjoy clear-sound calls thanks to the DSP-enhanced audio. Now you can be productive and safe at the same time.]]></longdescription>
+    <colours>
+      <colour id="2327">
+        <trackingid><![CDATA[CK_200_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/21cfba78ca575be1db8563e842dd3b1642dcc5ac.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="460">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_402]]></trackingid>
+    <name><![CDATA[CP-402 Sports Holder]]></name>
+    <icon><![CDATA[/en_gb/assets/images/95ecccc14f9c6c342b6816935f752f8c70384721.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/858d5827f1b7c3f6c4e55509c86a032417734da6.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Protect your Nokia no matter what you do]]></shortdescription>
+    <longdescription><![CDATA[Keep your phone secure and close-by with the CP-402 compatible with most Nokia devices. For easy accessibility, attach the case to your wrist or arm and get back to what you were doing knowing your phone is safe.]]></longdescription>
+    <colours>
+      <colour id="2529">
+        <trackingid><![CDATA[CP_402_GREEN]]></trackingid>
+        <hex><![CDATA[0x00bf00]]></hex>
+        <name><![CDATA[Green]]></name>
+        <image><![CDATA[/en_gb/assets/images/858d5827f1b7c3f6c4e55509c86a032417734da6.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2530">
+        <trackingid><![CDATA[CP_402_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/ec7a850d2bc111b16d974be9a2fd4b1e8bb57a16.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="456">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CR_114]]></trackingid>
+    <name><![CDATA[CR-114]]></name>
+    <icon><![CDATA[/en_gb/assets/images/7dc87c65dff90b26321db9ab6cdc8611e7f9c559.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/87866b2a0a49231f5b6aaf39cfc25d8be0eeaf55.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Get more from you phone]]></shortdescription>
+    <longdescription><![CDATA[Keep your phone secure and easily accessible with the adjustable holder. Simply attach it to your windscreen or dashboard to enjoy handsfree talking or turn your phone into a navigation device and get where you’re going faster.]]></longdescription>
+    <colours>
+      <colour id="2328">
+        <trackingid><![CDATA[CR_114_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/87866b2a0a49231f5b6aaf39cfc25d8be0eeaf55.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="457">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CR_115]]></trackingid>
+    <name><![CDATA[CR-115]]></name>
+    <icon><![CDATA[/en_gb/assets/images/20e8bc2008ae72ba4c0aa71587bb5084da595c42.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/e96ed98bcf5bcde87500cb37f24fa9663e6cfb82.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Made for all phones]]></shortdescription>
+    <longdescription><![CDATA[There’s room for any phone in this universal adjustable holder. Attach it to any dashboard or windscreen and keep your phone (or someone else’s!) at the ready. With an adjustable neck, changing the view is fast and easy.]]></longdescription>
+    <colours>
+      <colour id="2329">
+        <trackingid><![CDATA[CR_115_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e96ed98bcf5bcde87500cb37f24fa9663e6cfb82.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1173">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CR_123]]></trackingid>
+    <name><![CDATA[CR-123]]></name>
+    <icon><![CDATA[/en_gb/assets/images/f91962bb16f727de8d9d5bc281585d0341d5b822.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/e35ba7e1345479ea822e1f52ddd075db82b27ced.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Keep your phone where you can see it.]]></shortdescription>
+    <longdescription><![CDATA[Stay safer in your car with the long-arm universal holder. The Nokia CR-123 mounts securely on any window and can fit your phone vertically or horizontally. Your Nokia is transformed into an easily-visible GPS or simply enjoy clear hands-free calls.]]></longdescription>
+    <colours>
+      <colour id="5077">
+        <trackingid><![CDATA[CR_123_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e35ba7e1345479ea822e1f52ddd075db82b27ced.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/f91962bb16f727de8d9d5bc281585d0341d5b822.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="458">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[HF_210]]></trackingid>
+    <name><![CDATA[HF-210]]></name>
+    <icon><![CDATA[/en_gb/assets/images/77680ed6067958bb6ff18945e869939e1e29c479.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/98e3acdd22554fdee26df33fe5b51a985047334a.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Keep your hands free for driving]]></shortdescription>
+    <longdescription><![CDATA[There's no need to stop talking when you hit the road with the HF-210.  Chat, make plans or get work done all while keeping your eyes on the road with this compact car companion.]]></longdescription>
+    <colours>
+      <colour id="2330">
+        <trackingid><![CDATA[HF_210_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/98e3acdd22554fdee26df33fe5b51a985047334a.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="471">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MD_11]]></trackingid>
+    <name><![CDATA[MD-11]]></name>
+    <icon><![CDATA[/en_gb/assets/images/48c6a3574431c46174da073c2fc1ffea64c9d91c.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/518f59658421301123841e04aae35b2e738c9cbe.png]]></image>
+    <category><![CDATA[Entertainment]]></category>
+    <shortdescription><![CDATA[Plug and play]]></shortdescription>
+    <longdescription><![CDATA[This portable mini-speaker is small but powerful ensuring quality sound wherever you take it. With 50 hours of music per charge, you can share music with friends without worrying about the battery.]]></longdescription>
+    <colours>
+      <colour id="2355">
+        <trackingid><![CDATA[MD_11_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/518f59658421301123841e04aae35b2e738c9cbe.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2356">
+        <trackingid><![CDATA[MD_11_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/56c46977028b6a438e1df73d12f17b80f63f9630.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2357">
+        <trackingid><![CDATA[MD_11_ICE]]></trackingid>
+        <hex><![CDATA[0xf7f7f7]]></hex>
+        <name><![CDATA[Ice]]></name>
+        <image><![CDATA[/en_gb/assets/images/1544526a143e4606b8ed6be15762961ddb1eddec.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="479">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[DC_6]]></trackingid>
+    <name><![CDATA[Micro USB Car Charger DC-6]]></name>
+    <icon><![CDATA[/en_gb/assets/images/d509c2ba7765dc83f5b474d82f5c3ece4aefcff4.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/3a8ec3dfa567543774b57f14fa4ff1a965cea381.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Convenient charging]]></shortdescription>
+    <longdescription><![CDATA[Power your phone on the go with the Micro-USB DC-6. Lightweight and easily stored, this charger makes for the perfect road accessory keeping your phone charged and you ready to do work.]]></longdescription>
+    <colours>
+      <colour id="2368">
+        <trackingid><![CDATA[DC_6_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/3a8ec3dfa567543774b57f14fa4ff1a965cea381.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="480">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MU_41]]></trackingid>
+    <name><![CDATA[Nokia 4 GB MicroSDHC Card MU-41]]></name>
+    <icon><![CDATA[/en_gb/assets/images/751239f4d56ee92af5f0bc54415d1a4799ec5a69.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/560eb378dae5f696411af2086f9aa28f54f05dee.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[More memory on your device]]></shortdescription>
+    <longdescription><![CDATA[This microSDHC card provides 4 GB of removable storage and increases your device's available memory for data, music, and software applications.]]></longdescription>
+    <colours>
+      <colour id="2435">
+        <trackingid><![CDATA[MU_41_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/560eb378dae5f696411af2086f9aa28f54f05dee.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="481">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BL_4D]]></trackingid>
+    <name><![CDATA[Nokia Battery BL-4D]]></name>
+    <icon><![CDATA[/en_gb/assets/images/ae9e8ed69bef34cfee6409f590327ce38165c576.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/a71befc25e25461737bebd0f0d432f401596e683.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Power to stay connected]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Battery BL-4D is a lightweight, Li-ion battery that gives you 1200 mAh of power so you can stay in touch, stay online, and stay connected longer.]]></longdescription>
+    <colours>
+      <colour id="2370">
+        <trackingid><![CDATA[BL_4D_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/a71befc25e25461737bebd0f0d432f401596e683.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="494">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_106]]></trackingid>
+    <name><![CDATA[Nokia Bluetooth Headset BH-106]]></name>
+    <icon><![CDATA[/en_gb/assets/images/ba95d9587a2e94bdaabdd1fe168a507f4f87f3df.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/ae4dee69a7369fa1ffd6dad3b54e179f0bc8da49.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Clip on and connect]]></shortdescription>
+    <longdescription><![CDATA[The compact Nokia Bluetooth Headset BH-106 clips on to your clothes for convenient and discreet handsfree call management. Answer or end calls with the built-in key, or use the headset with your compatible device to activate the voice dialling or redialling features.]]></longdescription>
+    <colours>
+      <colour id="2395">
+        <trackingid><![CDATA[BH_106_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/ae4dee69a7369fa1ffd6dad3b54e179f0bc8da49.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2396">
+        <trackingid><![CDATA[BH_106_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/639ace73376ce43760772f80139f1d1b46050e5b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="495">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_216]]></trackingid>
+    <name><![CDATA[Nokia Bluetooth Headset BH-216]]></name>
+    <icon><![CDATA[/en_gb/assets/images/9c6b04879be60762d10402d790d0b7f6b17c2652.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/cf9711075019bfbdb329c3ea694491fa9aeb7f6a.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Comfortable communication on the move]]></shortdescription>
+    <longdescription><![CDATA[Turn heads with the sleek, contemporary design and find the perfect fit with three different sizes of comfortable earpads and an optional earloop. Talk for longer with up to 6 hours of talk time and up to 160 hours of standby time without having to recharge.]]></longdescription>
+    <colours>
+      <colour id="2531">
+        <trackingid><![CDATA[BH_216_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/cf9711075019bfbdb329c3ea694491fa9aeb7f6a.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2532">
+        <trackingid><![CDATA[BH_216_PEARLY_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[Pearly White]]></name>
+        <image><![CDATA[/en_gb/assets/images/ddb461296f92ec85e2a61c3ef365c4407ab41f39.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="496">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_607]]></trackingid>
+    <name><![CDATA[Nokia Bluetooth Headset BH-607]]></name>
+    <icon><![CDATA[/en_gb/assets/images/914b11e4ab9f8eb37f2d047770cb22782d705bf5.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/9603e6032a8e32431baad43f7261b9f369ffb202.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Experience noise-free audio with My Own Key]]></shortdescription>
+    <longdescription><![CDATA[Enjoy superior sound quality - even in noisy environments - with new ultimate audio features that enhance speech clarity and reduce distracting background noise as you talk.Talk continuously for up to 5 hours after only 15 minutes of charging, or fully charge your headset in less than an hour to enjoy up to 7 hours of talk time or 160 hours of standby time.]]></longdescription>
+    <colours>
+      <colour id="2399">
+        <trackingid><![CDATA[BH_607_WARM_SILVER]]></trackingid>
+        <hex><![CDATA[0xb7b4aa]]></hex>
+        <name><![CDATA[Warm Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/9603e6032a8e32431baad43f7261b9f369ffb202.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="498">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[BH_804]]></trackingid>
+    <name><![CDATA[Nokia Bluetooth Headset BH-804]]></name>
+    <icon><![CDATA[/en_gb/assets/images/f15df065fb96b5dfee3788628032043444145040.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/2149e095ad3259e62ad8576a0f46fb8d8c872dba.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[A treasure of technology]]></shortdescription>
+    <longdescription><![CDATA[Turn heads with this eye-catching, modern headset featuring a compact design and lightweight aluminum case.Enjoy hassle-free wireless communication with two user-friendly buttons that make it easy for you to manage your calls.]]></longdescription>
+    <colours>
+      <colour id="2402">
+        <trackingid><![CDATA[BH_804_ALUMINIUM_GREY_]]></trackingid>
+        <hex><![CDATA[0x7f7f7f]]></hex>
+        <name><![CDATA[Aluminium Grey]]></name>
+        <image><![CDATA[/en_gb/assets/images/2149e095ad3259e62ad8576a0f46fb8d8c872dba.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="461">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_397]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-397]]></name>
+    <icon><![CDATA[/en_gb/assets/images/5c7bed2c8d12e00cfac245b52e48911299f59025.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/e3905ebf9ef8c2142dfde2f035a06e99785149e5.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[The case that goes with everything]]></shortdescription>
+    <longdescription><![CDATA[Keep your device close and looking like new with the stylish Nokia Carrying Case CP-397. This elegant case is made from high-quality leather and comes in black, so you know it goes with any outfit. With its classic, purse-like design, it has just enough room for your phone and other essentials.]]></longdescription>
+    <colours>
+      <colour id="2334">
+        <trackingid><![CDATA[CP_397_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e3905ebf9ef8c2142dfde2f035a06e99785149e5.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="462">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_500]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-500]]></name>
+    <icon><![CDATA[/en_gb/assets/images/5f947d41f311c64b9597fb4e3f948d33ee449d68.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/c006427ed17c9606effd94b0e1f776859ab3d4dc.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Keep your Nokia N8 looking like new]]></shortdescription>
+    <longdescription><![CDATA[Keep your Nokia N8 safe with the Nokia Carrying Case CP-500 while you are on the go. This smart wallet-type case lets you access all your device's features, and protects it from the everyday wear and tear.]]></longdescription>
+    <colours>
+      <colour id="2335">
+        <trackingid><![CDATA[CP_500_GREY]]></trackingid>
+        <hex><![CDATA[0x333333]]></hex>
+        <name><![CDATA[Grey]]></name>
+        <image><![CDATA[/en_gb/assets/images/c006427ed17c9606effd94b0e1f776859ab3d4dc.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2336">
+        <trackingid><![CDATA[CP_500_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/355f77cb4b0cacacec36f7e46a40a5440571439b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="463">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_502]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-502]]></name>
+    <icon><![CDATA[/en_gb/assets/images/20d95ace93edd1504d8e652ad9d1a0cb582b5597.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/4dbe795f25088b0033799751016244961679c0ff.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Keep your Nokia looking like new]]></shortdescription>
+    <longdescription><![CDATA[Protect your phone from wear and tear with the elegant Nokia Carrying Case CP-502. This high-quality leather case also features a small pocket for your license, business cards, or other essentials.]]></longdescription>
+    <colours>
+      <colour id="2337">
+        <trackingid><![CDATA[CP_502_BLACK_WITH_ORANGE_LINE]]></trackingid>
+        <hex><![CDATA[0xff7f00]]></hex>
+        <name><![CDATA[Black with Orange Line]]></name>
+        <image><![CDATA[/en_gb/assets/images/4dbe795f25088b0033799751016244961679c0ff.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2338">
+        <trackingid><![CDATA[CP_502_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/326f10b6a2a6745807cd9d851a062d497e2a8cef.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2339">
+        <trackingid><![CDATA[CP_502_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/2363c616eee3a9e05ab861e5f70a4b1ac7d3420c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="464">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_503]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-503]]></name>
+    <icon><![CDATA[/en_gb/assets/images/c6459d1c53c431c7d2a2a87c1affcc8acce66fc1.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/3e7beb7a6e766c23d12ea35d69c00eaaa3668675.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Protected in style]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Carrying Case CP-503 is a stylish carrying case for your Nokia N8. Featuring a soft fibre lining that keeps your display clean, this carrying case is designed to help protect your device while you're on the move. Available in three different colours.]]></longdescription>
+    <colours>
+      <colour id="2340">
+        <trackingid><![CDATA[CP_503_RED]]></trackingid>
+        <hex><![CDATA[0xbf0000]]></hex>
+        <name><![CDATA[Red]]></name>
+        <image><![CDATA[/en_gb/assets/images/3e7beb7a6e766c23d12ea35d69c00eaaa3668675.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2341">
+        <trackingid><![CDATA[CP_503_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/499d434c1bed51a5aa59390f36c523ea51ccf067.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2342">
+        <trackingid><![CDATA[CP_503_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/88578a630625308011ce23333de57d058e383f0d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="465">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_505]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-505]]></name>
+    <icon><![CDATA[/en_gb/assets/images/ea7bbe399498ca1a94cbb49d67a34143f1320d30.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/4fea73e0cfd19693a8d116976ea3e13501e0fdf6.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Stylish Protection for your Nokia]]></shortdescription>
+    <longdescription><![CDATA[Keep your phone looking like new with the Nokia Carrying Case CP-505. This fashionable case comes in a variety of colours and features a convenient pull-out strap so your phone is always easily accessible.]]></longdescription>
+    <colours>
+      <colour id="2343">
+        <trackingid><![CDATA[CP_505_PINK]]></trackingid>
+        <hex><![CDATA[0xffaaff]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/4fea73e0cfd19693a8d116976ea3e13501e0fdf6.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2344">
+        <trackingid><![CDATA[CP_505_RED]]></trackingid>
+        <hex><![CDATA[0xbf0000]]></hex>
+        <name><![CDATA[Red]]></name>
+        <image><![CDATA[/en_gb/assets/images/50aa10340dcfa6660d56787ff10ecbf55dbbdb88.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2345">
+        <trackingid><![CDATA[CP_505_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/5f73adeb0b377a64f91059dcf58836afefa5b86b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="466">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_513]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-513]]></name>
+    <icon><![CDATA[/en_gb/assets/images/2a7fea7d16626d9ef1f72394034979661f223cd2.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/5dacf576da978ce4b3200d56cfb3637a4e4823e2.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Stylish protection]]></shortdescription>
+    <longdescription><![CDATA[This soft and stylish satin pouch comes with detachable jewellery and sparkling colour print for an individual look. The pouch measures 12.5 cm x 7.5 cm and is available in three colours.]]></longdescription>
+    <colours>
+      <colour id="2346">
+        <trackingid><![CDATA[CP_513_VIOLET]]></trackingid>
+        <hex><![CDATA[0x7f007f]]></hex>
+        <name><![CDATA[Violet]]></name>
+        <image><![CDATA[/en_gb/assets/images/5dacf576da978ce4b3200d56cfb3637a4e4823e2.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2347">
+        <trackingid><![CDATA[CP_513_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/f52dd0703868e09406d02c78f033c110cbaed9b7.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="467">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CP_515]]></trackingid>
+    <name><![CDATA[Nokia Carrying Case CP-515]]></name>
+    <icon><![CDATA[/en_gb/assets/images/f211c0c1d8b8c5e57618a8df3bd6c9c1a7636788.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/6b95b4e6f2cb4945b321163c7a40a36c55b965da.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Keep your Nokia looking like new]]></shortdescription>
+    <longdescription><![CDATA[Protect your phone from wear and tear with the Nokia Carrying Case CP-515. This handy pouch is made of super fibre fabric that keeps your device clean and features a printed Nokia logo and a closing strap with a stopper. The pouch measures 12.5 cm x 7.5 cm and is available in black.]]></longdescription>
+    <colours>
+      <colour id="2348">
+        <trackingid><![CDATA[CP_515_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/6b95b4e6f2cb4945b321163c7a40a36c55b965da.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="482">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[AC_15]]></trackingid>
+    <name><![CDATA[Nokia Compact Travel Charger AC-15]]></name>
+    <icon><![CDATA[/en_gb/assets/images/321d3507ccbf42c812260536b542c459ebe5d3e2.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/8a38086d814325f2608bec8ad4590cb7468b2dc9.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Reduce your environmental footprint]]></shortdescription>
+    <longdescription><![CDATA[The energy efficient Nokia Compact Travel Charger AC-15 helps you be environmentally friendly because it has extremely low no-load energy consumption and a smaller environmental impact due to its smaller size. What's more, it's slim enough to fit in your pocket or bag so you can have it nearby whenever your compatible Nokia device needs charging.]]></longdescription>
+    <colours>
+      <colour id="2533">
+        <trackingid><![CDATA[AC_15_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/8a38086d814325f2608bec8ad4590cb7468b2dc9.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="470">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[HF_510]]></trackingid>
+    <name><![CDATA[Nokia Display Speakerphone HF-510]]></name>
+    <icon><![CDATA[/en_gb/assets/images/1cb3658abe86d0595f2c141986542350e3bf4051.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/3d7cfda0a7d207598cf1cf1c711303747ee4fa72.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Keep your hands on the wheel]]></shortdescription>
+    <longdescription><![CDATA[Manage your calls with the handy shortcut key and communicate in clarity with DSP (digital signal processing) noise-cancellation technology. Access essential information from your phonebook and easily view incoming caller IDs on the integrated display.]]></longdescription>
+    <colours>
+      <colour id="2534">
+        <trackingid><![CDATA[HF_510_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/3d7cfda0a7d207598cf1cf1c711303747ee4fa72.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="483">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[DC_11]]></trackingid>
+    <name><![CDATA[Nokia Extra Power DC-11]]></name>
+    <icon><![CDATA[/en_gb/assets/images/d3f922a81b7b54a54e24f5828397ce2118612bd4.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/6ba55298833e9a680812d5680351129c83af6d89.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Power when you need it]]></shortdescription>
+    <longdescription><![CDATA[Simultaneously charge the two devices you use the most for calls, messaging, navigation or music. It provides up to one charge for your mobile phone. High-quality materials, rechargeable battery and excellent cable management make life hassle free when you're on the move.]]></longdescription>
+    <colours>
+      <colour id="2372">
+        <trackingid><![CDATA[DC_11_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/6ba55298833e9a680812d5680351129c83af6d89.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="503">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[NOKIA_J]]></trackingid>
+    <name><![CDATA[Nokia J]]></name>
+    <icon><![CDATA[/en_gb/assets/images/0ab0ffc7eb4609c7c3eeacdf69b9c4a0e931e73d.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/9546f6aaed7102f52696fcaf47d85f2369d0ff2c.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Exceptional sound from any phone]]></shortdescription>
+    <longdescription><![CDATA[The award winning Nokia J brings you luxury design and quality audio to match. The in-ear headset sits comfortably in its holder but automatically switches on when you pick it up. Connect it to any phone and enjoy superior sound in all environments thanks to noise-reduction technology and talk comfortably with changeable ear buds made for all ear types.]]></longdescription>
+    <colours>
+      <colour id="2430">
+        <trackingid><![CDATA[NOKIA_J_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/9546f6aaed7102f52696fcaf47d85f2369d0ff2c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="472">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[MD_9]]></trackingid>
+    <name><![CDATA[Nokia Mini Speaker MD-9]]></name>
+    <icon><![CDATA[/en_gb/assets/images/6e3b5ebed4ee9b0a8368f02005f8e242da8ee63c.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/c14a1cb004641aac7f5861690386b34f7edc6b7a.png]]></image>
+    <category><![CDATA[Entertainment]]></category>
+    <shortdescription><![CDATA[The small speaker with the big sound]]></shortdescription>
+    <longdescription><![CDATA[Play your tunes out loud with the Nokia Mini Speaker MD-9, featuring a built-in amplifier and omni-directional sound. Put it in your pocket and go - the Nokia Mini Speaker MD-9 is small and light enough to always come along for the ride.]]></longdescription>
+    <colours>
+      <colour id="2535">
+        <trackingid><![CDATA[MD_9_BLACK_WITH_RED]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black with Red]]></name>
+        <image><![CDATA[/en_gb/assets/images/c14a1cb004641aac7f5861690386b34f7edc6b7a.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="484">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[DC_4]]></trackingid>
+    <name><![CDATA[Nokia Mobile Charger DC-4]]></name>
+    <icon><![CDATA[/en_gb/assets/images/9b1e9ba66f3cbd768fcf922c3e2ac680fc028a62.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/e87eb2612d708fa575ca59ebf54700cbb6dcbd47.png]]></image>
+    <category><![CDATA[Power & Data]]></category>
+    <shortdescription><![CDATA[Charge your phone on the move]]></shortdescription>
+    <longdescription><![CDATA[Simple and compact, this mobile phone charger offers rapid phone charging from a car cigarette lighter socket.]]></longdescription>
+    <colours>
+      <colour id="2373">
+        <trackingid><![CDATA[DC_4_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e87eb2612d708fa575ca59ebf54700cbb6dcbd47.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="473">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[PLAY_360]]></trackingid>
+    <name><![CDATA[Nokia Play 360]]></name>
+    <icon><![CDATA[/en_gb/assets/images/6da52dd22cde402150177cc1142b67fee811b05f.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/7048de0216d176c40e929f86a4aa00a5d9311e7b.png]]></image>
+    <category><![CDATA[Entertainment]]></category>
+    <shortdescription><![CDATA[Share it out loud]]></shortdescription>
+    <longdescription><![CDATA[Let your music be heard the way it was supposed to with this 360-degree speaker that works wirelessly. Superior sound meets super style with the Nokia Play 360 that comes available in three shades and a rechargeable battery bringing you power and portability.  Connect through Bluetooth, NFC or simply use a 3.5mm audio plug to start the party.]]></longdescription>
+    <colours>
+      <colour id="2359">
+        <trackingid><![CDATA[PLAY_360_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/7048de0216d176c40e929f86a4aa00a5d9311e7b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2360">
+        <trackingid><![CDATA[PLAY_360_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/dba0e6f5af132137e9637ae70a81adee063616c1.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2361">
+        <trackingid><![CDATA[PLAY_360_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/e8ed713041f61eb1f732225d06f534b6b5fb1329.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="935">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[NOKIA_PURITY_WH_920]]></trackingid>
+    <name><![CDATA[Nokia Purity HD In-Ear WH-930 ]]></name>
+    <icon><![CDATA[/en_gb/assets/images/30f2e4e70b82d1acdb79c2074afbb7488fe5300d.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/d5df57c0ecdf57a25d1a91586db151744f03ce01.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[A powerful partnership for incredible sound]]></shortdescription>
+    <longdescription><![CDATA[Nokia and Monster, two trusted brands for innovation and design, have come together to bring you high performance headphones. Compact and stylish, the Nokia Purity in-ear headphones feature volume and call handling controls and pure sound thanks to noise isolating design. With five included variable-sized ear buds, each speaker is sure to fit snugly in your ear so the music never stops.]]></longdescription>
+    <colours>
+      <colour id="3508">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_920_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/dce41c99a2930827ffacf4dff27428b606d0487d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3509">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_920_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/f115f4145658768c98267870abc68051ee8d173b.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3510">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_920_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/d31783bbb4cc2508853c2d3b5e030d89f81b477e.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3511">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_920_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/d21815d184fe13a3f58bb8fddc6d627aea71b75a.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="933">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[NOKIA_PURITY_WH_930]]></trackingid>
+    <name><![CDATA[Nokia Purity HD Over-Ear WH-930 ]]></name>
+    <icon><![CDATA[/en_gb/assets/images/fd14760305968e9dad276e1c5a002545fe480702.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/963fd8cd82962e23ae4a097173fe632c466071a0.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[The ultimate mobile audio experience]]></shortdescription>
+    <longdescription><![CDATA[Mobile pioneers, Nokia and audio experts, Monster have teamed up to bring you the best in mobile headphones. Designed to be comfortable without compromising on style, you can control your phone from the cable fitted with a microphone. Now spectacular sound can be yours to enjoy no matter where you are.]]></longdescription>
+    <colours>
+      <colour id="3394">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_930_BLUE]]></trackingid>
+        <hex><![CDATA[0x005fbf]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/4b0ef2409c8d23456895117bd9208b24eeb8f2d7.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3395">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_930_PINK]]></trackingid>
+        <hex><![CDATA[0xff56aa]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/dbd3701fb59a3f70e9b68c524d26f0f05b56492e.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3396">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_930_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/5bf172699b9957272c0ed5b4fd41f39f60765499.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3397">
+        <trackingid><![CDATA[NOKIA_PURITY_WH_930_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/17c6d4ba594afddce54cd4c18d839781b6e9d1a8.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="468">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[CC_1005]]></trackingid>
+    <name><![CDATA[Nokia Silicone Cover CC-1005]]></name>
+    <icon><![CDATA[/en_gb/assets/images/45ef64fe968d3b51f980a4f90af9dc0a397998a7.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/81059d6237d92fc145fc0c3d6b18c5659f4d174d.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[The stylish way to protect your Nokia]]></shortdescription>
+    <longdescription><![CDATA[Flexible and durable, this silicone cover helps protect your Nokia while giving you easy access to the touch screen and external connectors. Match your style with a choice of four available colours.]]></longdescription>
+    <colours>
+      <colour id="2349">
+        <trackingid><![CDATA[CC_1005_LIME]]></trackingid>
+        <hex><![CDATA[0x7fff00]]></hex>
+        <name><![CDATA[Lime]]></name>
+        <image><![CDATA[/en_gb/assets/images/81059d6237d92fc145fc0c3d6b18c5659f4d174d.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2350">
+        <trackingid><![CDATA[CC_1005_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/239f9d1348348ae6f5017f3f66147c8aeed1e04e.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2351">
+        <trackingid><![CDATA[CC_1005_GREY]]></trackingid>
+        <hex><![CDATA[0x333333]]></hex>
+        <name><![CDATA[Grey]]></name>
+        <image><![CDATA[/en_gb/assets/images/b0dc5c27ebe27d393f31b578f7a02c093bbbcc8a.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2352">
+        <trackingid><![CDATA[CC_1005_PURPLE]]></trackingid>
+        <hex><![CDATA[0xbf005f]]></hex>
+        <name><![CDATA[Purple]]></name>
+        <image><![CDATA[/en_gb/assets/images/ca3724b7f96e43752ab292e34461de7e02475046.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="459">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[HF_310]]></trackingid>
+    <name><![CDATA[Nokia Speakerphone HF-310]]></name>
+    <icon><![CDATA[/en_gb/assets/images/16a72cfc1bf8fecc6913c55ecec775c5d4dda7ea.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/aa7440d1838aea635cef636f448919a12743edcc.png]]></image>
+    <category><![CDATA[Car & Navigation]]></category>
+    <shortdescription><![CDATA[Find the perfect spot for handsfree talk]]></shortdescription>
+    <longdescription><![CDATA[Connect this stylish speakerphone wirelessly with bluetooth to your Nokia device and enjoy the comfort and freedom of handsfree communication in your car. Keep the conversation going and avoid distracting background noises with the help of digital signal processing (DSP) technology. Manage your calls with ease and control the volume as you talk with just a touch of the user-friendly keys.]]></longdescription>
+    <colours>
+      <colour id="2331">
+        <trackingid><![CDATA[HF_310_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/aa7440d1838aea635cef636f448919a12743edcc.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="504">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WH_102]]></trackingid>
+    <name><![CDATA[Nokia Stereo Headset WH-102]]></name>
+    <icon><![CDATA[/en_gb/assets/images/b2ebcb29638cb0dea1547753d750387ce106722c.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/8b0597218c2fd06c49c93afeef92960091476af8.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Switch to better sound]]></shortdescription>
+    <longdescription><![CDATA[Enjoy quality on-the-go audio combined with easy control of handsfree conversations. Switch easily between calls and music: a single button answers or ends a call.]]></longdescription>
+    <colours>
+      <colour id="2410">
+        <trackingid><![CDATA[WH_102_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/8b0597218c2fd06c49c93afeef92960091476af8.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="505">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WH_205]]></trackingid>
+    <name><![CDATA[Nokia Stereo Headset WH-205]]></name>
+    <icon><![CDATA[/en_gb/assets/images/7b477060fe78aaa6b20a1bb938b90bb07fa9fa3b.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/d9f00a53e85e381669b75e7d012687b0164244de.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Enjoy music and calls in stereo sound]]></shortdescription>
+    <longdescription><![CDATA[Listen to your favourite tracks in stereo sound with this handsfree in-ear headset. Manage current and incoming calls by simply pressing the answer/end button on the integrated remote.]]></longdescription>
+    <colours>
+      <colour id="3386">
+        <trackingid><![CDATA[WH_205_ICE_BLUE]]></trackingid>
+        <hex><![CDATA[0xddfdff]]></hex>
+        <name><![CDATA[Ice Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/449f4904afe5881dabaa8053c3325a27f04ba6d2.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3387">
+        <trackingid><![CDATA[WH_205_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/0c0d7def2e7739b8313a55517e91ca4466e2bb94.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="506">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WH_701]]></trackingid>
+    <name><![CDATA[Nokia Stereo Headset WH-701]]></name>
+    <icon><![CDATA[/en_gb/assets/images/8c722f9744a06bf32fad7554a2c5b584843b764f.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/ce46a61cc71ad77d0c992d1d0ac1c61893538f0a.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Control your calls and music in a world of sound]]></shortdescription>
+    <longdescription><![CDATA[The Nokia Stereo Headset WH-701 is a comfortable handsfree headset that gives you full control of your calls and your music while on the move.Switch between tracks, quickly adjust the volume, and easily manage your calls with the integrated remote.Choose the size that works best for you with three sets of comfortable earpads to pick from.]]></longdescription>
+    <colours>
+      <colour id="3388">
+        <trackingid><![CDATA[WH_701_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/b87d5bf96915864051443b36346a2289b9a95638.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="3389">
+        <trackingid><![CDATA[WH_701_ICE_BLUE]]></trackingid>
+        <hex><![CDATA[0xddfdff]]></hex>
+        <name><![CDATA[Ice Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/2e29def8870848160c285cfd19004f3c425e3f53.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="469">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[SU_36]]></trackingid>
+    <name><![CDATA[Nokia Stylus SU-36]]></name>
+    <icon><![CDATA[/en_gb/assets/images/18d5c8623f142e146f77a83b2807a99c5789dfef.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/cd68380e36e4b6ddeda4d690ad1e4063a150020c.png]]></image>
+    <category><![CDATA[Carrying Cases & Style]]></category>
+    <shortdescription><![CDATA[Enter with only a touch]]></shortdescription>
+    <longdescription><![CDATA[Use the sleek high quality Nokia Stylus SU-36 to easily enter and personalise information on your compatible phone’s capacitive touch screen. Its collapsible structure provides comfortable use and portability, while a convenient strap lets you attach the stylus to your phone.]]></longdescription>
+    <colours>
+      <colour id="2353">
+        <trackingid><![CDATA[SU_36_SILVER]]></trackingid>
+        <hex><![CDATA[0xe5e5e5]]></hex>
+        <name><![CDATA[Silver]]></name>
+        <image><![CDATA[/en_gb/assets/images/cd68380e36e4b6ddeda4d690ad1e4063a150020c.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="507">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WH_500]]></trackingid>
+    <name><![CDATA[WH-500]]></name>
+    <icon><![CDATA[/en_gb/assets/images/03337e1df1ad4d0daa473689583f2792c312f8b0.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/bb655a3046620df72742feecf7d5ba4c3a2ffe68.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[Music on move. Calls at the ready.]]></shortdescription>
+    <longdescription><![CDATA[Make handsfree calls or pamper your ears with stereo quality sound from the WH-500 headset. Connect your device to enjoy music wirelessly and play, pause or skip tracks straight from the headset keeping you mobile.]]></longdescription>
+    <colours>
+      <colour id="2415">
+        <trackingid><![CDATA[WH_500_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/bb655a3046620df72742feecf7d5ba4c3a2ffe68.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="1172">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WH_920]]></trackingid>
+    <name><![CDATA[WH-920]]></name>
+    <icon><![CDATA[/en_gb/assets/images/a2880758859a54e52feb4757ba8fa720599da795.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/c1495e17313403d201eda272d2876f15c8003fb3.png]]></image>
+    <category><![CDATA[Headsets]]></category>
+    <shortdescription><![CDATA[More than just an accessory.]]></shortdescription>
+    <longdescription><![CDATA[Enjoy flawless audio and expert design with the Nokia Purity Stereo headset by Monster. Take calls and adjust music thanks to ControlTalk on the tangle-free cable and experience audio without interference. Find the right fit for you with the included set of five ear buds.]]></longdescription>
+    <colours>
+      <colour id="5072">
+        <trackingid><![CDATA[WH_920_PINK]]></trackingid>
+        <hex><![CDATA[0xff007f]]></hex>
+        <name><![CDATA[Pink]]></name>
+        <image><![CDATA[/en_gb/assets/images/c1495e17313403d201eda272d2876f15c8003fb3.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/a2880758859a54e52feb4757ba8fa720599da795.png]]></basketicon>
+      </colour>
+      <colour id="5073">
+        <trackingid><![CDATA[WH_920_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/d3bf47b9d9f3a76d59e53560b0f9ae5929fe60c0.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/a34433a9c775d6eb0c9de490d4a6d6ad51bdb6ca.png]]></basketicon>
+      </colour>
+      <colour id="5074">
+        <trackingid><![CDATA[WH_920_WHITE]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/57d36d12a278204c87b7cce084ccc8e847849c06.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/dc0501d1622298435b25f00196fcf3d332626d10.png]]></basketicon>
+      </colour>
+      <colour id="5075">
+        <trackingid><![CDATA[WH_920_BLUE]]></trackingid>
+        <hex><![CDATA[0x007fff]]></hex>
+        <name><![CDATA[Blue]]></name>
+        <image><![CDATA[/en_gb/assets/images/023f3b704800546c5d0daf604627350b97d164f7.png]]></image>
+        <basketicon><![CDATA[/en_gb/assets/images/b9afed7327f38d8cc8952aae708a925d8b61bb6e.png]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+  <accessory id="474">
+    <timestamp>
+      <start>1</start>
+      <end>2604441599</end>
+    </timestamp>
+    <trackingid><![CDATA[WIRELESS_MUSIC_RECEIVER]]></trackingid>
+    <name><![CDATA[Wireless Music Receiver]]></name>
+    <icon><![CDATA[/en_gb/assets/images/fccb705858aacaa5360c45e13a6f9d1eaf3cf79d.png]]></icon>
+    <image><![CDATA[/en_gb/assets/images/6174d3e7b7c85debb4f3d46e3396ce30470bec87.png]]></image>
+    <category><![CDATA[Entertainment]]></category>
+    <shortdescription><![CDATA[From your phone to your home]]></shortdescription>
+    <longdescription><![CDATA[Play music from your phone straight to your home stereo wirelessly and enjoy great audio for a range of up to 100m. Advanced Audio Distribution Profile ensures superior sound through Bluetooth and guarantees clear music even when playing from the internet. Simply plug the audio cable into your home stereo jack or tap your NFC-enabled device to the Music for easy installation. There’s no limit to the music you can play as the Nokia Wireless Music Receiver is compatible with a wide range of phones, music players, laptops and computers.]]></longdescription>
+    <colours>
+      <colour id="2362">
+        <trackingid><![CDATA[WIRELESS_MUSIC_RECEIVER_BLACK]]></trackingid>
+        <hex><![CDATA[0x000000]]></hex>
+        <name><![CDATA[Black]]></name>
+        <image><![CDATA[/en_gb/assets/images/6174d3e7b7c85debb4f3d46e3396ce30470bec87.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+      <colour id="2363">
+        <trackingid><![CDATA[WIRELESS_MUSIC_RECEIVER_WHITE_]]></trackingid>
+        <hex><![CDATA[0xffffff]]></hex>
+        <name><![CDATA[White]]></name>
+        <image><![CDATA[/en_gb/assets/images/50edf337fcffb5e30bac3b01cb8a5aa04fcbcd17.png]]></image>
+        <basketicon><![CDATA[]]></basketicon>
+      </colour>
+    </colours>
+  </accessory>
+</accessories>

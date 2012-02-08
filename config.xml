@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- specify region - folder names of a locale -->
+<configuration region="en_gb">
+  <!-- store_id can't be empty, it needs to have a value otherwise the GA tracking won't work -->
+  <store_id>store-111</store_id>
+  <!-- screen_id can't be empty, it needs to have a value otherwise the GA tracking won't work -->
+  <screen_id>destop-111</screen_id>
+  <!-- screen_name can't be empty, it needs to have a value otherwise the GA tracking won't work -->
+  <screen_name>desktop Screen 1</screen_name>
+  <store_name>store</store_name>
+  <application_type>desktop</application_type>
+  <!--  debug email smtp server settings -->
+  <debug_email>nokia.retail.debug.phase3@gmail.com</debug_email>
+  <!-- services properties -->
+  <email_service_url>http://mobilefinder.nokia.com/email.svc/Cart</email_service_url>
+  <brochure_service_url>http://mobilefinder.nokia.com/email.svc/Brochure</brochure_service_url>
+  <compare_service_url>http://mobilefinder.nokia.com/email.svc/Compare</compare_service_url>
+  <apps_service_url>http://mobilefinder.nokia.com/email.svc/Apps</apps_service_url>
+  <!--  let's send error messages to staging when developing the on live we'll hit nokiamobilefinder.beam.tv -->
+  <error_service_url>http://mobilefinder.nokia.com/email.svc/Error</error_service_url>
+  <service_timeout>120000</service_timeout>
+  <!-- nokia registration -->
+  <nokia_registration_url>http://store.ovi.com/register</nokia_registration_url>
+  <nokia_terms_url>http://store.ovi.com/legal/terms</nokia_terms_url>
+  <nokia_privacy_url>http://store.ovi.com/legal/privacy</nokia_privacy_url>
+  <!-- url to check the application is online - we assume google is a safe bet -->
+  <online_check_service_url>http://www.google.com</online_check_service_url>
+  <!-- flag for displaying or not the sign to ovi store button -->
+  <show_ovi_store_register>true</show_ovi_store_register>
+  <!-- flag for displaying or not the recommended devices section in existing user journey -->
+  <show_recommended_devices>true</show_recommended_devices>
+  <!-- absolute basepath to the resource directory-->
+  <basepath>resources</basepath>
+  <!-- absolute path to a directory for logs-->
+  <logpath>c:\mobilefinderlogs\</logpath>
+  <!-- set the display order for home slideView of solutions,offers, value will be first-->
+  <slide_view_order>solutions</slide_view_order>
+  <!-- amount of seconds that application is idle for before the PopUpWindow appears -->
+  <idle_timeout>90</idle_timeout>
+  <!-- amount of seconds that idle PopUpWindow is displayed for before the application is reset -->
+  <idle_dialog_timeout>20</idle_dialog_timeout>
+  <!-- in byte 1073741824 = 1 gig - this property limits the cache bank to whatever value here -->
+  <cache_limit>1610612736</cache_limit>
+  <!-- google analytics account id -->
+  <ga_account_id>UA-11624329-4</ga_account_id>
+  <!-- this is injected by backend to determine the deployment id  -->
+  <deployment_id>0</deployment_id>
+  <!-- this is injected by backend to determine the content revision  -->
+  <git_revision>0</git_revision>
+</configuration>

@@ -1,0 +1,1074 @@
+.nokia
+{
+	font-file: /fonts/en_gb/NokiaFont.swf;
+	font-family: Nokia Pure Headline;	
+}
+
+.gradient_symbol_button
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 20;
+	color: #FFFFFF;
+}
+
+.gradient_symbol_button_large_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #FFFFFF;
+}
+
+.gradient_symbol_button_small_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #FFFFFF;
+}
+
+.gradient_symbol_button_number
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #FFFFFF;
+}
+
+.gradient_symbol_button_number_blue
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #124191;
+}
+
+.arrow_back_button
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color:#FFFFFF;
+}
+
+.video_captioning_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 30;
+	color:#FFFFFF;
+	text-align:center;	
+}
+
+.popup_title_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 80;
+	color: #124191;
+}
+
+.popup_description_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+}
+
+.popup_price_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #124191;
+}
+
+.price_tag_box_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #ffffff;	
+}
+
+.devices_page_arrowbutton_top_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 22;
+	color: #2B2B2B;
+}
+
+.devices_page_arrowbutton_lower_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #2B2B2B;
+}
+
+.devices_tech_specs_page_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;
+}
+
+.devices_tech_specs_page_selection_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+}
+
+.devices_tech_specs_page_feature_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #828181;
+}
+
+.devices_tech_specs_page_feature_spec
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #828282;
+	/*leading:16;*/
+	line-height: 26;
+}
+
+.devices_tech_specs_page_feature_spec_smallprint
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 10;
+	color: #828181;
+	/*leading:4;*/
+	line-height: 14;
+}
+
+.devices_color_page_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 110;
+	color: #124191;	
+}
+
+.devices_tariff_panel_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #124191;
+}
+
+.devices_tariff_panel_headline
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.devices_tariff_panel_price
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #124191;
+}
+
+.devices_tariff_panel_copy
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color: #373737;
+}
+
+.devices_page_device_header_white
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #ffffff;	
+}
+
+.devices_page_device_header_blue
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;	
+}
+
+.compare_view_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+}
+
+.compare_phone_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color:#124191;
+}
+
+.compare_phone_price
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color:#373737;
+}
+
+.compare_selection_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;
+}
+
+.compare_selection_phone_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color:#124191;
+}
+
+.compare_selection_label
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #828181;
+	line-height: 26;
+}
+
+.compare_selection_menu_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color:#124191;
+}
+
+.compare_selection_menu_label_selected
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color:#373737;
+}
+
+.packs_product_unit_category
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 14;
+	color: #373737;
+	line-height: 16;
+}
+
+.popup_tariffs_subtitle
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #124191;
+}
+
+.keyboard 
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #124191;
+}
+
+.keyboard_submit
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #ffffff;
+}
+
+.keyboard_spacebar
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 27;
+	color: #124191;
+}
+
+.devices_intro_page_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	color: #ffffff;
+	text-align: center;
+	line-height: 118;
+	
+}
+
+.devices_page_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	line-height: 120;
+	color: #124191;
+}
+
+.devices_page_description
+{	
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #373737;
+}
+
+.devices_page_description_with_background
+{	
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #373737;
+}
+
+.devices_unit_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #124191;
+	text-align: center;
+}
+
+.devices_unit_description
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #124191;
+	text-align: center;
+}
+
+.devices_unit_secondary
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #373737;
+	text-align: center;
+}
+
+.devices_unit_featured
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 70;
+	line-height: 65;
+	color: #124191;
+}
+
+.devices_unit_featured_text_only
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #14418b;
+	text-align: center;
+}
+
+.devices_unit_featured_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #124191;
+}
+
+.devices_unit_featured_secondary
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #373737;
+}
+
+.solutions_unit_title
+{	
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #ffffff;
+}
+
+.solutions_unit_secondary
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #ffffff;
+}
+
+.promotion_unit_name
+{
+	font-family: Nokia Pure Headline;
+	font-size: 25;
+	color: #373737;
+}
+
+.promotion_unit_title
+{	
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	line-height: 40;
+	color: #ffffff;
+}
+
+.promotion_unit_secondary
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #ffffff;
+}
+
+.campaign_unit_name
+{
+	font-family: Nokia Pure Headline;
+	font-size: 25;
+	color: #373737;	
+}
+
+.devices_bundle_sub
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #124191;
+}
+
+.content_page_footer
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color: #373737;
+}
+
+.footer_item
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #ffffff;
+}
+
+.footer_item_off
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #373737;
+}
+
+.footer_item_basket
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	text-align:center;
+	color: #ffffff;
+}
+
+.btn_add_remove_simple
+{	
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #124191;
+}
+
+.btn_add_remove_simple_white
+{	
+	font-family: Nokia Pure Headline;
+	font-size:18;
+	color:#ffffff;
+}
+
+.btn_app_heading
+{	
+	font-family: Nokia Pure Headline;
+	font-size:20;
+	color:#124191;
+}
+
+.btn_app_copy
+{	
+	font-family: Nokia Pure Headline;
+	font-size:14;
+	color:#373737;
+}
+
+.basket_item_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #13418e;
+}
+
+.basket_item_number
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #373737;
+}
+
+.basket_checkout
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124596;
+}
+
+.basket_checkout_phone_name
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #373737;
+}
+
+.basket_item_price
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.basket_total_price
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #373737;
+}
+
+.basket_promo_price
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #373737;
+}
+
+.basket_promo_discount_price
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #a01414;
+}
+
+.basket_vat_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.basket_promo_discount_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #a01414;
+}
+
+.basket_terms_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color: #373737;
+}
+
+.basket_instruction_ovi
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.send_email_form_input_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #373737;
+	text-align:center;
+}
+
+.send_email_form_input_text_error
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #dd0202;
+	text-align:center;
+}
+
+.send_email_form_error_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #dd0202;
+	text-align:center;
+}
+
+.send_email_form_legal
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 14;
+	color: #373737;
+	text-align:left;
+}
+
+.register_form_input_label
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #a4a3a3;
+	text-align:left;
+}
+
+.register_captcha_copy_grey
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #a4a3a3;
+	text-align:left;
+	leading: 4px;
+}
+
+.register_captcha_copy_blue
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #203d86;
+	text-align:left;
+	leading: 4px;
+}
+
+.register_instruction
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #373737;
+	text-align:left;
+}
+
+.register_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;
+	text-align:left;
+}
+
+.message_default_popup_instruction
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #373737;
+	text-align:center;
+}
+
+.message_default_popup_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;
+	text-align:center;
+}
+
+.feature_overlay_content_text
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 18;
+	color: #373737;
+	line-height: 92;
+}
+
+.feature_overlay_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 80;
+	color: #124191;
+}
+
+.feature_overlay_with_background_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 80;
+	color: #ffffff;
+}
+
+.feature_overlay_description
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+}
+
+.feature_overlay_with_background_description
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #ffffff;
+}
+
+.feature_overlay_content_text_only
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 80;
+	color: #ffffff;
+	line-height: 92;
+}
+
+.feature_overlay_content_text_white
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 60;
+	color: #ffffff;
+	line-height: 60;
+}
+
+.feature_overlay_content_text_blue
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 60;
+	color: #124191;
+	line-height: 60;
+}
+
+.feature_overlay_slideshow_with_text_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 47;
+	color: #124191;
+	line-height: 47;
+}
+
+.staff_tool_device_name
+{
+	font-family: Nokia Pure Headline;
+	font-size: 10;
+	color: #124191;	
+}
+
+.staff_tool_device_price
+{
+	font-family: Nokia Pure Headline;
+	font-size: 10;
+	color: #373737;		
+}
+
+.staff_tool_spec_section
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #ffffff;
+}
+
+.staff_tool_spec_list_label
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 20;
+	color: #ffffff;
+}
+
+.staff_tool_spec_list_item_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #124191;		
+}
+
+.staff_tool_num_of_devices
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 35;
+	color: #f1f1f1;
+}
+
+.staff_tool_num_of_devices_label
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 20;
+	color: #f1f1f1;
+}
+
+.staff_tool_alert_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;	
+	text-align:center;
+}
+
+.staff_tool_alert_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+	text-align:center;	
+}
+
+.staff_tool_alert_info
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #373737;
+	text-align:center;
+}
+
+.staff_tool_alert_price
+{
+	font-family: Nokia Pure Headline Light;
+	text-align:center;
+	font-size: 50;
+	color: #545455;
+}
+
+.simple_button_white
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #16438e;	
+}
+
+.simple_button_blue
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #ffffff;
+}
+
+.solutions_headline
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	color: #124191;
+}
+
+.solutions_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #124191;
+}
+
+.solutions_text
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.solutions_item_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #ffffff;
+}
+
+.solutions_device_name
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #ffffff;	
+}
+
+.notification_label
+{
+	font-family: Nokia Pure Headline;
+	font-size: 18;
+	color: #ffffff;
+	text-align:center;
+}
+
+.promotions_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	line-height: 120;
+	color: #ffffff;
+}
+
+.promotions_description
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #ffffff;
+}
+
+.promotions_promo_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #ffffff;
+}
+
+.ovi_user_label
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #124191;
+}
+
+.ovi_select_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	color: #124191;
+}
+
+.ovi_select_description
+{
+	font-family: Nokia Pure Headline;
+	font-size: 22;
+	color: #373737;
+}
+
+.ovi_select_renderer_name
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #124191;
+	textAlign:center;
+}
+
+.ovi_select_renderer_price
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color: #373737;
+	textAlign:center;
+}
+
+.start_view_logo
+{
+	font-family: Nokia Pure Headline;
+	font-size: 20;
+	color: #124191;
+	textAlign:center;
+}
+
+.start_view_cta
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #ffffff;
+	textAlign:center;
+}
+
+.start_view_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 60;
+	line-height: 63;
+	color: #124191;
+	textAlign:center;
+}
+
+.start_view_description
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 20;
+	color: #373737;
+	textAlign:center;
+}
+
+.page_dots
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 14;
+	color: #ffffff;
+}
+
+.ovi_device_start_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	line-height: 120;
+	color: #124191;
+}
+
+.ovi_device_start_button_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #13418f;
+}
+
+.ovi_device_start_button_title_inactive
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 40;
+	color: #373737;
+}
+
+.ovi_device_start_button_description
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 22;
+	color: #373737;
+}
+
+.ovi_device_recommend_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 120;
+	line-height: 120;
+	color: #124191;
+}
+
+.ovi_device_recommend_device_name
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 20;
+	color: #124191;
+}
+
+.ovi_device_recommend_device_selection
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 16;
+	color: #373737;
+}
+
+.ovi_device_recommend_grid_title
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #373737;
+}
+
+.ovi_device_recommend_grid_item
+{
+	font-family: Nokia Pure Headline;
+	font-size: 16;
+	color: #828181;
+}
+
+.ovi_device_start_device_name
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 14;
+	color: #373737;
+}
+
+.ovi_device_start_page_coming_soon
+{
+	font-family: Nokia Pure Headline;
+	font-size: 14;
+	color: #ffffff;	
+}
+
+.basket_receipt_product_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 25;
+	color: #000000;	
+}
+
+.basket_receipt_product
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 25;
+	color: #ffffff;	
+}
+
+.basket_receipt_title
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #ffffff;	
+}
+
+.basket_receipt_description
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #c7c7c7;
+	line-height: 50;
+}
+
+.basket_receipt_promotion
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 30;
+	color: #ffffff;	
+}
+
+.basket_receipt_total
+{
+	font-family: Nokia Pure Headline Light;
+	font-size: 50;
+	color: #ffffff;	
+}
+
+

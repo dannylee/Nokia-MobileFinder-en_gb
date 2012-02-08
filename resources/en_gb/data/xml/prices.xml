@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<configuration>
+  <currency>
+    <symbol><![CDATA[£]]></symbol>
+    <delimiter><![CDATA[.]]></delimiter>
+    <format><![CDATA[0]]></format>
+  </currency>
+  <devices>
+    <device id="387" enabled="true" price="-3"><![CDATA[Nokia Lumia 710]]></device>
+    <device id="372" enabled="true" price="-3"><![CDATA[Nokia Lumia 800]]></device>
+    <device id="678" enabled="true" price="-3"><![CDATA[Nokia 603]]></device>
+    <device id="597" enabled="true" price="-3"><![CDATA[Nokia Asha 303]]></device>
+    <device id="339" enabled="true" price="-3"><![CDATA[Nokia 700]]></device>
+    <device id="596" enabled="true" price="-3"><![CDATA[Nokia Asha 300]]></device>
+    <device id="337" enabled="true" price="-3"><![CDATA[Nokia 701]]></device>
+    <device id="336" enabled="true" price="-3"><![CDATA[Nokia 600]]></device>
+    <device id="594" enabled="true" price="-3"><![CDATA[Nokia Asha 200]]></device>
+    <device id="310" enabled="true" price="-3"><![CDATA[Nokia N8]]></device>
+    <device id="317" enabled="true" price="-3"><![CDATA[Nokia E7]]></device>
+    <device id="335" enabled="true" price="-3"><![CDATA[Nokia C2-03]]></device>
+    <device id="365" enabled="true" price="-3"><![CDATA[Nokia C5-03]]></device>
+    <device id="356" enabled="true" price="-3"><![CDATA[Nokia C3-01]]></device>
+    <device id="333" enabled="true" price="-3"><![CDATA[Nokia E6-00]]></device>
+    <device id="349" enabled="true" price="-3"><![CDATA[Nokia E5]]></device>
+    <device id="348" enabled="true" price="-3"><![CDATA[Nokia C5]]></device>
+    <device id="321" enabled="true" price="-3"><![CDATA[Nokia 500]]></device>
+    <device id="324" enabled="true" price="-3"><![CDATA[Nokia C6-00]]></device>
+    <device id="327" enabled="true" price="-3"><![CDATA[Nokia C6-01]]></device>
+    <device id="370" enabled="true" price="-3"><![CDATA[C5-00 5MP]]></device>
+    <device id="331" enabled="true" price="-3"><![CDATA[Nokia 5250]]></device>
+  </devices>
+  <accessories>
+    <accessory id="475" enabled="true" price="-3"><![CDATA[16GB MicroSD Card MU-44]]></accessory>
+    <accessory id="476" enabled="true" price="-3"><![CDATA[32GB MicroSD Card MU-45]]></accessory>
+    <accessory id="477" enabled="true" price="-3"><![CDATA[8GB MicroSD Card MU-43]]></accessory>
+    <accessory id="478" enabled="true" price="-3"><![CDATA[AC-10]]></accessory>
+    <accessory id="485" enabled="true" price="-3"><![CDATA[BH-108]]></accessory>
+    <accessory id="486" enabled="true" price="-3"><![CDATA[BH-109]]></accessory>
+    <accessory id="1101" enabled="true" price="-3"><![CDATA[BH-110]]></accessory>
+    <accessory id="1103" enabled="true" price="-3"><![CDATA[BH-110]]></accessory>
+    <accessory id="1170" enabled="true" price="-3"><![CDATA[BH-110]]></accessory>
+    <accessory id="487" enabled="true" price="-3"><![CDATA[BH-111]]></accessory>
+    <accessory id="1171" enabled="true" price="-3"><![CDATA[BH-112]]></accessory>
+    <accessory id="488" enabled="true" price="-3"><![CDATA[BH-217]]></accessory>
+    <accessory id="489" enabled="true" price="-3"><![CDATA[BH-218]]></accessory>
+    <accessory id="490" enabled="true" price="-3"><![CDATA[BH-219]]></accessory>
+    <accessory id="1169" enabled="true" price="-3"><![CDATA[BH-220]]></accessory>
+    <accessory id="491" enabled="true" price="-3"><![CDATA[BH-609]]></accessory>
+    <accessory id="492" enabled="true" price="-3"><![CDATA[BH-905i]]></accessory>
+    <accessory id="493" enabled="true" price="-3"><![CDATA[Bluetooth Headset BH-105]]></accessory>
+    <accessory id="497" enabled="true" price="-3"><![CDATA[Bluetooth Headset BH-608]]></accessory>
+    <accessory id="499" enabled="true" price="-3"><![CDATA[Bluetooth Stereo Headset BH-214]]></accessory>
+    <accessory id="500" enabled="true" price="-3"><![CDATA[Bluetooth Stereo Headset BH-504]]></accessory>
+    <accessory id="501" enabled="true" price="-3"><![CDATA[Bluetooth Stereo Headset BH-505]]></accessory>
+    <accessory id="502" enabled="true" price="-3"><![CDATA[Bluetooth Stereo Headset BH-905]]></accessory>
+    <accessory id="1176" enabled="true" price="-3"><![CDATA[CC-1031]]></accessory>
+    <accessory id="1174" enabled="true" price="-3"><![CDATA[CC-3032]]></accessory>
+    <accessory id="1175" enabled="true" price="-3"><![CDATA[CC-3033]]></accessory>
+    <accessory id="1177" enabled="true" price="-3"><![CDATA[CC-3036]]></accessory>
+    <accessory id="455" enabled="true" price="-3"><![CDATA[CK-200]]></accessory>
+    <accessory id="460" enabled="true" price="-3"><![CDATA[CP-402 Sports Holder]]></accessory>
+    <accessory id="456" enabled="true" price="-3"><![CDATA[CR-114]]></accessory>
+    <accessory id="457" enabled="true" price="-3"><![CDATA[CR-115]]></accessory>
+    <accessory id="1173" enabled="true" price="-3"><![CDATA[CR-123]]></accessory>
+    <accessory id="458" enabled="true" price="-3"><![CDATA[HF-210]]></accessory>
+    <accessory id="471" enabled="true" price="-3"><![CDATA[MD-11]]></accessory>
+    <accessory id="479" enabled="true" price="-3"><![CDATA[Micro USB Car Charger DC-6]]></accessory>
+    <accessory id="480" enabled="true" price="-3"><![CDATA[Nokia 4 GB MicroSDHC Card MU-41]]></accessory>
+    <accessory id="481" enabled="true" price="-3"><![CDATA[Nokia Battery BL-4D]]></accessory>
+    <accessory id="494" enabled="true" price="-3"><![CDATA[Nokia Bluetooth Headset BH-106]]></accessory>
+    <accessory id="495" enabled="true" price="-3"><![CDATA[Nokia Bluetooth Headset BH-216]]></accessory>
+    <accessory id="496" enabled="true" price="-3"><![CDATA[Nokia Bluetooth Headset BH-607]]></accessory>
+    <accessory id="498" enabled="true" price="-3"><![CDATA[Nokia Bluetooth Headset BH-804]]></accessory>
+    <accessory id="461" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-397]]></accessory>
+    <accessory id="462" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-500]]></accessory>
+    <accessory id="463" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-502]]></accessory>
+    <accessory id="464" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-503]]></accessory>
+    <accessory id="465" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-505]]></accessory>
+    <accessory id="466" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-513]]></accessory>
+    <accessory id="467" enabled="true" price="-3"><![CDATA[Nokia Carrying Case CP-515]]></accessory>
+    <accessory id="482" enabled="true" price="-3"><![CDATA[Nokia Compact Travel Charger AC-15]]></accessory>
+    <accessory id="470" enabled="true" price="-3"><![CDATA[Nokia Display Speakerphone HF-510]]></accessory>
+    <accessory id="483" enabled="true" price="-3"><![CDATA[Nokia Extra Power DC-11]]></accessory>
+    <accessory id="503" enabled="true" price="-3"><![CDATA[Nokia J]]></accessory>
+    <accessory id="472" enabled="true" price="-3"><![CDATA[Nokia Mini Speaker MD-9]]></accessory>
+    <accessory id="484" enabled="true" price="-3"><![CDATA[Nokia Mobile Charger DC-4]]></accessory>
+    <accessory id="473" enabled="true" price="-3"><![CDATA[Nokia Play 360]]></accessory>
+    <accessory id="935" enabled="true" price="-3"><![CDATA[Nokia Purity HD In-Ear WH-930 ]]></accessory>
+    <accessory id="933" enabled="true" price="-3"><![CDATA[Nokia Purity HD Over-Ear WH-930 ]]></accessory>
+    <accessory id="468" enabled="true" price="-3"><![CDATA[Nokia Silicone Cover CC-1005]]></accessory>
+    <accessory id="459" enabled="true" price="-3"><![CDATA[Nokia Speakerphone HF-310]]></accessory>
+    <accessory id="504" enabled="true" price="-3"><![CDATA[Nokia Stereo Headset WH-102]]></accessory>
+    <accessory id="505" enabled="true" price="-3"><![CDATA[Nokia Stereo Headset WH-205]]></accessory>
+    <accessory id="506" enabled="true" price="-3"><![CDATA[Nokia Stereo Headset WH-701]]></accessory>
+    <accessory id="469" enabled="true" price="-3"><![CDATA[Nokia Stylus SU-36]]></accessory>
+    <accessory id="507" enabled="true" price="-3"><![CDATA[WH-500]]></accessory>
+    <accessory id="1172" enabled="true" price="-3"><![CDATA[WH-920]]></accessory>
+    <accessory id="474" enabled="true" price="-3"><![CDATA[Wireless Music Receiver]]></accessory>
+  </accessories>
+  <applications>
+    <application id="2044" enabled="true" price="0.00"><![CDATA[3001 Wisdom Quotes Free]]></application>
+    <application id="2021" enabled="true" price="0.00"><![CDATA[5001 Amazing Facts Free]]></application>
+    <application id="2003" enabled="true" price="0.00"><![CDATA[Absolute 80s ]]></application>
+    <application id="2009" enabled="true" price="0.00"><![CDATA[AccuWeather.com]]></application>
+    <application id="2575" enabled="true" price="0.00"><![CDATA[Advanced English Dictionary ]]></application>
+    <application id="2032" enabled="true" price="0.00"><![CDATA[Airhorn Extreme]]></application>
+    <application id="1998" enabled="true" price="0.00"><![CDATA[AK 47 Assault Rifle ]]></application>
+    <application id="2551" enabled="true" price="0.00"><![CDATA[Akinator]]></application>
+    <application id="2051" enabled="true" price="0.00"><![CDATA[Angry Birds]]></application>
+    <application id="2605" enabled="true" price="0.00"><![CDATA[Angry Birds]]></application>
+    <application id="2010" enabled="true" price="0.00"><![CDATA[AP Mobile ]]></application>
+    <application id="2565" enabled="true" price="0.00"><![CDATA[Apict (Instant camera effect)]]></application>
+    <application id="2054" enabled="true" price="0.00"><![CDATA[AstroJump]]></application>
+    <application id="2038" enabled="true" price="0.00"><![CDATA[Battery Extender Lite (1.16)]]></application>
+    <application id="2571" enabled="true" price="0.00"><![CDATA[BBC News WP7]]></application>
+    <application id="2240" enabled="true" price="0.00"><![CDATA[BBC Radio Player]]></application>
+    <application id="2559" enabled="true" price="0.00"><![CDATA[Billboard]]></application>
+    <application id="2055" enabled="true" price="0.00"><![CDATA[Boombakas Pro Free]]></application>
+    <application id="2553" enabled="true" price="0.00"><![CDATA[Borat]]></application>
+    <application id="2556" enabled="true" price="0.00"><![CDATA[Car Tunes]]></application>
+    <application id="2011" enabled="true" price="0.00"><![CDATA[CNN App for Nokia]]></application>
+    <application id="2563" enabled="true" price="0.00"><![CDATA[Colorize]]></application>
+    <application id="1986" enabled="true" price="0.00"><![CDATA[Currencies Touch]]></application>
+    <application id="2022" enabled="true" price="0.00"><![CDATA[Dictionary & Translation Pro]]></application>
+    <application id="1999" enabled="true" price="0.00"><![CDATA[Dilbert Mobile]]></application>
+    <application id="2603" enabled="true" price="0.00"><![CDATA[Doodle Jump]]></application>
+    <application id="2026" enabled="true" price="0.00"><![CDATA[eBuddy Mobile]]></application>
+    <application id="2023" enabled="true" price="0.00"><![CDATA[Elements Touch]]></application>
+    <application id="2039" enabled="true" price="0.00"><![CDATA[Email for Nokia - 10 Accounts]]></application>
+    <application id="2597" enabled="true" price="0.00"><![CDATA[Executive Caddie]]></application>
+    <application id="2595" enabled="true" price="0.00"><![CDATA[F1 World Pro]]></application>
+    <application id="2577" enabled="true" price="0.00"><![CDATA[Facebook]]></application>
+    <application id="2027" enabled="true" price="0.00"><![CDATA[Facebook]]></application>
+    <application id="2028" enabled="true" price="0.00"><![CDATA[Facebook Chat Pro]]></application>
+    <application id="2554" enabled="true" price="0.00"><![CDATA[Family Guy Stewie]]></application>
+    <application id="2000" enabled="true" price="0.00"><![CDATA[FingerPrint V3.0]]></application>
+    <application id="2012" enabled="true" price="0.00"><![CDATA[ForecaWeather Free]]></application>
+    <application id="2029" enabled="true" price="0.00"><![CDATA[FourSquare]]></application>
+    <application id="2601" enabled="true" price="0.00"><![CDATA[Fruit Ninja]]></application>
+    <application id="2040" enabled="true" price="0.00"><![CDATA[F-Secure Anti-Theft for Mobile]]></application>
+    <application id="2004" enabled="true" price="0.00"><![CDATA[Gig Finder]]></application>
+    <application id="2005" enabled="true" price="0.00"><![CDATA[Guitar Tuner]]></application>
+    <application id="2567" enabled="true" price="0.00"><![CDATA[Headlines]]></application>
+    <application id="2041" enabled="true" price="0.00"><![CDATA[JoikuSpot Light]]></application>
+    <application id="2545" enabled="true" price="0.00"><![CDATA[Just Another Maps]]></application>
+    <application id="2583" enabled="true" price="0.00"><![CDATA[Kik Messenger]]></application>
+    <application id="2030" enabled="true" price="0.00"><![CDATA[LinkedIn]]></application>
+    <application id="1992" enabled="true" price="0.00"><![CDATA[Locago+]]></application>
+    <application id="2547" enabled="true" price="0.00"><![CDATA[London Tube]]></application>
+    <application id="1987" enabled="true" price="0.00"><![CDATA[Mail for Exchange]]></application>
+    <application id="2546" enabled="true" price="0.00"><![CDATA[Maps Pro]]></application>
+    <application id="2587" enabled="true" price="0.00"><![CDATA[Messenger by Miyowa]]></application>
+    <application id="1993" enabled="true" price="0.00"><![CDATA[META Friend Locator]]></application>
+    <application id="2560" enabled="true" price="0.00"><![CDATA[Metronome 7]]></application>
+    <application id="2015" enabled="true" price="0.00"><![CDATA[MOLOME]]></application>
+    <application id="2006" enabled="true" price="0.00"><![CDATA[Moodagent Free]]></application>
+    <application id="2024" enabled="true" price="0.00"><![CDATA[Mopedi]]></application>
+    <application id="2591" enabled="true" price="0.00"><![CDATA[Moto+GP Live 2011]]></application>
+    <application id="1988" enabled="true" price="0.00"><![CDATA[Mr. Expense ]]></application>
+    <application id="2129" enabled="true" price="0.00"><![CDATA[My Football]]></application>
+    <application id="2593" enabled="true" price="0.00"><![CDATA[My Football]]></application>
+    <application id="2046" enabled="true" price="0.00"><![CDATA[MySpace]]></application>
+    <application id="2572" enabled="true" price="0.00"><![CDATA[National Geographic World Atlas]]></application>
+    <application id="2052" enabled="true" price="0.00"><![CDATA[Need for Speed]]></application>
+    <application id="2548" enabled="true" price="0.00"><![CDATA[New York Subway]]></application>
+    <application id="2570" enabled="true" price="0.00"><![CDATA[NewsRoom]]></application>
+    <application id="2033" enabled="true" price="0.00"><![CDATA[Nokia Goal 2011]]></application>
+    <application id="2001" enabled="true" price="0.00"><![CDATA[Nokia Internet Radio]]></application>
+    <application id="2016" enabled="true" price="0.00"><![CDATA[Nokia Panorama]]></application>
+    <application id="2585" enabled="true" price="0.00"><![CDATA[NowPlaying]]></application>
+    <application id="2049" enabled="true" price="0.00"><![CDATA[Opera Mini Web Browser]]></application>
+    <application id="2025" enabled="true" price="0.00"><![CDATA[Optical Illusions ]]></application>
+    <application id="2564" enabled="true" price="0.00"><![CDATA[Paint]]></application>
+    <application id="2002" enabled="true" price="0.00"><![CDATA[Paint Pad]]></application>
+    <application id="1989" enabled="true" price="0.00"><![CDATA[PayPal]]></application>
+    <application id="1990" enabled="true" price="0.00"><![CDATA[PDF +]]></application>
+    <application id="2573" enabled="true" price="0.00"><![CDATA[Periodic Table]]></application>
+    <application id="2566" enabled="true" price="0.00"><![CDATA[Photo Studio ]]></application>
+    <application id="2045" enabled="true" price="0.00"><![CDATA[Phrasebook 18 in 1 Lite]]></application>
+    <application id="2561" enabled="true" price="0.00"><![CDATA[Pictures Lab]]></application>
+    <application id="2544" enabled="true" price="0.00"><![CDATA[Plane Finder]]></application>
+    <application id="2607" enabled="true" price="0.00"><![CDATA[Plant vs Zombies]]></application>
+    <application id="2034" enabled="true" price="0.00"><![CDATA[Premier League 2011-2012]]></application>
+    <application id="2589" enabled="true" price="0.00"><![CDATA[Premier League Football]]></application>
+    <application id="1991" enabled="true" price="0.00"><![CDATA[Quick Office Pro]]></application>
+    <application id="2599" enabled="true" price="0.00"><![CDATA[Race Predictor]]></application>
+    <application id="2035" enabled="true" price="0.00"><![CDATA[RaceChrono]]></application>
+    <application id="2549" enabled="true" price="0.00"><![CDATA[San Francisco Guide]]></application>
+    <application id="2017" enabled="true" price="0.00"><![CDATA[Scalado Photorama]]></application>
+    <application id="2007" enabled="true" price="0.00"><![CDATA[Shazam]]></application>
+    <application id="2558" enabled="true" price="0.00"><![CDATA[Shazam Encore]]></application>
+    <application id="2036" enabled="true" price="0.00"><![CDATA[Sky.com]]></application>
+    <application id="2042" enabled="true" price="0.00"><![CDATA[Skype]]></application>
+    <application id="2018" enabled="true" price="0.00"><![CDATA[Snapfish]]></application>
+    <application id="2031" enabled="true" price="0.00"><![CDATA[Socially (Free)]]></application>
+    <application id="2043" enabled="true" price="0.00"><![CDATA[Sports Tracker]]></application>
+    <application id="2008" enabled="true" price="0.00"><![CDATA[Spotify]]></application>
+    <application id="2555" enabled="true" price="0.00"><![CDATA[Steam Phone]]></application>
+    <application id="2569" enabled="true" price="0.00"><![CDATA[TechRack]]></application>
+    <application id="2609" enabled="true" price="0.00"><![CDATA[The Sims 3]]></application>
+    <application id="2013" enabled="true" price="0.00"><![CDATA[The Times of India]]></application>
+    <application id="2550" enabled="true" price="0.00"><![CDATA[This Week in Tech]]></application>
+    <application id="2037" enabled="true" price="0.00"><![CDATA[Timer Touch Lite]]></application>
+    <application id="2053" enabled="true" price="0.00"><![CDATA[Trash It!]]></application>
+    <application id="1994" enabled="true" price="0.00"><![CDATA[Trip Advisor]]></application>
+    <application id="2552" enabled="true" price="0.00"><![CDATA[Tron Clock]]></application>
+    <application id="1995" enabled="true" price="0.00"><![CDATA[Tube Map]]></application>
+    <application id="2050" enabled="true" price="0.00"><![CDATA[Tune Wiki]]></application>
+    <application id="2581" enabled="true" price="0.00"><![CDATA[Twitter]]></application>
+    <application id="2557" enabled="true" price="0.00"><![CDATA[Ultimate Guitar Tabs]]></application>
+    <application id="2562" enabled="true" price="0.00"><![CDATA[Vimeo Player ]]></application>
+    <application id="2047" enabled="true" price="0.00"><![CDATA[Vlingo]]></application>
+    <application id="1996" enabled="true" price="0.00"><![CDATA[Waze GPS]]></application>
+    <application id="2568" enabled="true" price="0.00"><![CDATA[Weather Live]]></application>
+    <application id="2014" enabled="true" price="0.00"><![CDATA[Weather Touch]]></application>
+    <application id="2579" enabled="true" price="0.00"><![CDATA[WhatsApp]]></application>
+    <application id="2728" enabled="true" price="0.00"><![CDATA[WhatsApp Messenger]]></application>
+    <application id="2574" enabled="true" price="0.00"><![CDATA[WikiRama]]></application>
+    <application id="1997" enabled="true" price="0.00"><![CDATA[Yell.com]]></application>
+    <application id="2019" enabled="true" price="0.00"><![CDATA[YouTube]]></application>
+    <application id="2020" enabled="true" price="0.00"><![CDATA[YouTube Downloader]]></application>
+  </applications>
+  <promotions>
+    <promotion id="3" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="4" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="7" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="8" enabled="true" price="-3"><![CDATA[Social ]]></promotion>
+    <promotion id="9" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="11" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="15" enabled="true" price="-3"><![CDATA[Nokia Lumia 800 ]]></promotion>
+    <promotion id="17" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="18" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="22" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="23" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="24" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="25" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="26" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="27" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="28" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="29" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="30" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="31" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="33" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="34" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="35" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="36" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="37" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="38" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="39" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+    <promotion id="40" enabled="true" price="-3"><![CDATA[Music]]></promotion>
+    <promotion id="41" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="42" enabled="true" price="-3"><![CDATA[Business]]></promotion>
+    <promotion id="44" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="45" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="46" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="47" enabled="true" price="-3"><![CDATA[Social]]></promotion>
+    <promotion id="48" enabled="true" price="-3"><![CDATA[N701 Offer]]></promotion>
+    <promotion id="49" enabled="true" price="-3"><![CDATA[Travel]]></promotion>
+  </promotions>
+  <extras />
+</configuration>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<features>
+    
+    <feature id="contacts">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/contacts.png]]></icon>    
+        <title><![CDATA[Contacts]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="calender">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/calender.png]]></icon>    
+        <title><![CDATA[Calender]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="webbrowser">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/web_browser.png]]></icon>    
+        <title><![CDATA[Web Browser]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="ovistore">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/ovi_store.png]]></icon>    
+        <title><![CDATA[Ovi Store]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="maps">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/maps.png]]></icon>    
+        <title><![CDATA[Maps]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="music">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/music.png]]></icon>    
+        <title><![CDATA[Music]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="musicstore">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/music_store.png]]></icon>    
+        <title><![CDATA[Music Store]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="photos">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/photos.png]]></icon>    
+        <title><![CDATA[Photos]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="videos">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/videos.png]]></icon>    
+        <title><![CDATA[Videos]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="socialapps">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/social_apps.png]]></icon>    
+        <title><![CDATA[Social Apps]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	<feature id="emailclient">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/email_client.png]]></icon>    
+        <title><![CDATA[Email Client]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	<feature id="messaging">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/messaging.png]]></icon>    
+        <title><![CDATA[Messaging]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="radio">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/radio.png]]></icon>    
+        <title><![CDATA[Radio]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="alarm">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/alarm.png]]></icon>    
+        <title><![CDATA[Alarm]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="clock">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/clock.png]]></icon>    
+        <title><![CDATA[Clock]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="dictionary">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/dictionary.png]]></icon>    
+        <title><![CDATA[Dictionary]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="recorder">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/recorder.png]]></icon>    
+        <title><![CDATA[Recorder]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="notes">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/notes.png]]></icon>    
+        <title><![CDATA[Notes]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="quickoffice">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/quick_office.png]]></icon>    
+        <title><![CDATA[Quick Office]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="calculator">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/calculator.png]]></icon>    
+        <title><![CDATA[Calculator]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="pdfreader">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/pdf_reader.png]]></icon>    
+        <title><![CDATA[PDF Reader]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="webtv">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/web_tv.png]]></icon>    
+        <title><![CDATA[WebTV]]></title>
+        <description><![CDATA[]]></description>
+    </feature>
+	<feature id="webtv">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/web_tv.png]]></icon>    
+        <title><![CDATA[WebTV]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	<feature id="youtube">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/youtube.png]]></icon>    
+        <title><![CDATA[Youtube]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	<feature id="traveller">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/traveller.png]]></icon>    
+        <title><![CDATA[Traveller]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	<feature id="games">
+        <icon><![CDATA[/en_gb/assets/static_images/techspecs/games.png]]></icon>    
+        <title><![CDATA[Games]]></title>
+        <description><![CDATA[]]></description>
+    </feature>	
+	
+</features>

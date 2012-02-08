@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tariffscollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tariffs id="essential">
+    <tariff id="8">
+      <trackingid><![CDATA[TRAVEL_PASS]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/872cdb9f2ae12cbdb0f1265516f898a2385d291a.png]]></image>
+      <title><![CDATA[Travel Pass]]></title>
+      <headline><![CDATA[Stay connected abroad.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[per month / 24 months 
+100 minutes
+250 texts
+250 MB (in the UK)
+Purchase a Travel Pass for £20 to get 
+20 MB of data a day in Europe of pay £5 per MB.]]></description>
+    </tariff>
+    <tariff id="7">
+      <trackingid><![CDATA[O2 STAY IN TOUCH]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/a0ec3054bf65875c490f9677de85b1082b864b0c.png]]></image>
+      <title><![CDATA[O2 Stay in Touch]]></title>
+      <headline><![CDATA[Text and talk to your heart’s content.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[per month / 24 months
+600 minutes
+Unlimited texts
+500 MB]]></description>
+    </tariff>
+    <tariff id="6">
+      <trackingid><![CDATA[THE_EVERYTHING_PACKAGE]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/6acbd9e24c4f57d40ddff263f5554d4d967b1bcf.png]]></image>
+      <title><![CDATA[The Everything Package]]></title>
+      <headline><![CDATA[Give your phone a bold plan.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[per month / 24 months
+300 minutes
+300 texts
+Unlimited data
+Free handset]]></description>
+    </tariff>
+  </tariffs>
+  <tariffs id="smartphone">
+    <tariff id="5">
+      <trackingid><![CDATA[VODAFONE_DATA_TRAVELLER]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/05a5c404e162fe1169187666d2862d1455458f3b.png]]></image>
+      <title><![CDATA[Vodafone Data Traveller]]></title>
+      <headline><![CDATA[Frequent travellers rejoice.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[for Data Traveller - per month / 12 months 
+900 minutes
+Unlimited texts
+500 MB (in the UK)
+Data Traveller £10 a month or 
+£2 a day (Europe) £5 rest of the world]]></description>
+    </tariff>
+    <tariff id="4">
+      <trackingid><![CDATA[ORANGE_PAY_MONTHLY]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/1561fa465fdb551c7b497c1d8cd846669c0c7851.png]]></image>
+      <title><![CDATA[Orange Pay Monthly ]]></title>
+      <headline><![CDATA[Talk and text a lot for a little.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[per month / 24 months 
+300 minutes
+Unlimited texts
+500 MB data]]></description>
+    </tariff>
+    <tariff id="3">
+      <trackingid><![CDATA[3_UNLIMITED]]></trackingid>
+      <image><![CDATA[/en_gb/assets/images/f72c91e84aeeffe713da2a11899f60fb038db238.png]]></image>
+      <title><![CDATA[3 Unlimited]]></title>
+      <headline><![CDATA[A phone with no boundaries.]]></headline>
+      <price><![CDATA[£0.00]]></price>
+      <description><![CDATA[per month / 24 months
+2000 minutes
+5000 texts
+Unlimited data]]></description>
+    </tariff>
+  </tariffs>
+</tariffscollection>

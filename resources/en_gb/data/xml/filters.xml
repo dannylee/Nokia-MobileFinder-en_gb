@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<schema>
+  <section id="devices">
+    <menu_group categorylist="false">
+      <item id="all" />
+    </menu_group>
+    <menu_group categorylist="true">
+      <item id="18">
+        <name><![CDATA[Business Smartphones]]></name>
+      </item>
+      <item id="20">
+        <name><![CDATA[Essentials]]></name>
+      </item>
+      <item id="17">
+        <name><![CDATA[Smartphones]]></name>
+      </item>
+      <item id="19">
+        <name><![CDATA[Style]]></name>
+      </item>
+    </menu_group>
+  </section>
+  <section id="applications">
+    <menu_group categorylist="false">
+      <item id="all" />
+    </menu_group>
+    <menu_group categorylist="true">
+      <item id="45">
+        <name><![CDATA[Business]]></name>
+      </item>
+      <item id="46">
+        <name><![CDATA[City Guides & Maps]]></name>
+      </item>
+      <item id="47">
+        <name><![CDATA[Entertainment]]></name>
+      </item>
+      <item id="159">
+        <name><![CDATA[Games]]></name>
+      </item>
+      <item id="48">
+        <name><![CDATA[Music]]></name>
+      </item>
+      <item id="50">
+        <name><![CDATA[News & Info]]></name>
+      </item>
+      <item id="51">
+        <name><![CDATA[Photo & Video]]></name>
+      </item>
+      <item id="52">
+        <name><![CDATA[Reference]]></name>
+      </item>
+      <item id="53">
+        <name><![CDATA[Social Networks]]></name>
+      </item>
+      <item id="54">
+        <name><![CDATA[Sports]]></name>
+      </item>
+      <item id="55">
+        <name><![CDATA[Utilities]]></name>
+      </item>
+    </menu_group>
+  </section>
+  <section id="accessories">
+    <menu_group categorylist="false">
+      <item id="all" />
+    </menu_group>
+    <menu_group categorylist="true">
+      <item id="37">
+        <name><![CDATA[Car & Navigation]]></name>
+      </item>
+      <item id="40">
+        <name><![CDATA[Carrying Cases & Style]]></name>
+      </item>
+      <item id="39">
+        <name><![CDATA[Entertainment]]></name>
+      </item>
+      <item id="38">
+        <name><![CDATA[Headsets]]></name>
+      </item>
+      <item id="41">
+        <name><![CDATA[Power & Data]]></name>
+      </item>
+    </menu_group>
+  </section>
+</schema>

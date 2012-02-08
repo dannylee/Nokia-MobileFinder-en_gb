@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<copy>
+  <item key="com.nokia.accessories.addbutton" translate="true">
+    <value><![CDATA[Add accessory]]></value>
+  </item>
+  <item key="com.nokia.accessories.backbutton" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.accessories.color.title" translate="true">
+    <value><![CDATA[Available in these colours.<br/>Let the salesperson know which you’d prefer.]]></value>
+  </item>
+  <item key="com.nokia.accessories.title" translate="true">
+    <value><![CDATA[Accessories]]></value>
+  </item>
+  <item key="com.nokia.applications.best" translate="true">
+    <value><![CDATA[Best smartphones for your accessory]]></value>
+  </item>
+  <item key="com.nokia.applications.categories" translate="true">
+    <value><![CDATA[Categories: ]]></value>
+  </item>
+  <item key="com.nokia.applications.category" translate="true">
+    <value><![CDATA[Category: ]]></value>
+  </item>
+  <item key="com.nokia.applications.developer" translate="true">
+    <value><![CDATA[Developer: ]]></value>
+  </item>
+  <item key="com.nokia.applications.vat" translate="true">
+    <value><![CDATA[Incl. VAT]]></value>
+  </item>
+  <item key="com.nokia.apps.backbutton" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.apps.screenshots" translate="true">
+    <value><![CDATA[App Screenshots]]></value>
+  </item>
+  <item key="com.nokia.apps.title" translate="true">
+    <value><![CDATA[Apps]]></value>
+  </item>
+  <item key="com.nokia.cart.accessories" translate="true">
+    <value><![CDATA[Accessories]]></value>
+  </item>
+  <item key="com.nokia.cart.add" translate="true">
+    <value><![CDATA[Add smartphone]]></value>
+  </item>
+  <item key="com.nokia.cart.addbuttton" translate="true">
+    <value><![CDATA[Add]]></value>
+  </item>
+  <item key="com.nokia.cart.apps" translate="true">
+    <value><![CDATA[Apps]]></value>
+  </item>
+  <item key="com.nokia.cart.clear" translate="true">
+    <value><![CDATA[Clear all from cart]]></value>
+  </item>
+  <item key="com.nokia.cart.compare" translate="true">
+    <value><![CDATA[Compare devices]]></value>
+  </item>
+  <item key="com.nokia.cart.continue.checkout" translate="true">
+    <value><![CDATA[Continue to checkout]]></value>
+  </item>
+  <item key="com.nokia.cart.edit" translate="true">
+    <value><![CDATA[Edit]]></value>
+  </item>
+  <item key="com.nokia.cart.expandable.devices" translate="true">
+    <value><![CDATA[Devices & Services]]></value>
+  </item>
+  <item key="com.nokia.cart.extra" translate="true">
+    <value><![CDATA[An unlimited data plan is recommended with this device]]></value>
+  </item>
+  <item key="com.nokia.cart.latest" translate="true">
+    <value><![CDATA[Latest]]></value>
+  </item>
+  <item key="com.nokia.cart.myselection" translate="true">
+    <value><![CDATA[My basket]]></value>
+  </item>
+  <item key="com.nokia.cart.subtotal" translate="true">
+    <value><![CDATA[Sub Total]]></value>
+  </item>
+  <item key="com.nokia.cart.total" translate="true">
+    <value><![CDATA[Total]]></value>
+  </item>
+  <item key="com.nokia.cart.vat" translate="true">
+    <value><![CDATA[VAT]]></value>
+  </item>
+  <item key="com.nokia.color.title" translate="true">
+    <value><![CDATA[Colour]]></value>
+  </item>
+  <item key="com.nokia.common.ask" translate="true">
+    <value><![CDATA[Ask Staff]]></value>
+  </item>
+  <item key="com.nokia.common.back" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.common.backtohome" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.common.button.add" translate="true">
+    <value><![CDATA[Add to basket]]></value>
+  </item>
+  <item key="com.nokia.common.button.addoffertocart" translate="true">
+    <value><![CDATA[Add This Offer]]></value>
+  </item>
+  <item key="com.nokia.common.button.addpacktocart" translate="true">
+    <value><![CDATA[Add This Pack]]></value>
+  </item>
+  <item key="com.nokia.common.button.addtocart" translate="true">
+    <value><![CDATA[Add To Basket]]></value>
+  </item>
+  <item key="com.nokia.common.button.continue" translate="true">
+    <value><![CDATA[Continue]]></value>
+  </item>
+  <item key="com.nokia.common.button.gotoovi" translate="true">
+    <value><![CDATA[Create An Account]]></value>
+  </item>
+  <item key="com.nokia.common.button.newsession" translate="true">
+    <value><![CDATA[New Session]]></value>
+  </item>
+  <item key="com.nokia.common.button.no" translate="true">
+    <value><![CDATA[No]]></value>
+  </item>
+  <item key="com.nokia.common.button.seemore" translate="true">
+    <value><![CDATA[See all]]></value>
+  </item>
+  <item key="com.nokia.common.button.yes" translate="true">
+    <value><![CDATA[Yes]]></value>
+  </item>
+  <item key="com.nokia.common.createanaccount" translate="true">
+    <value><![CDATA[Create<br/>an account]]></value>
+  </item>
+  <item key="com.nokia.common.donedatacleared" translate="true">
+    <value><![CDATA[You're all done – and your personal data has been cleared.]]></value>
+  </item>
+  <item key="com.nokia.common.music" translate="true">
+    <value><![CDATA[Music]]></value>
+  </item>
+  <item key="com.nokia.common.notnowthanks" translate="true">
+    <value><![CDATA[Not now, <br/>thanks.]]></value>
+  </item>
+  <item key="com.nokia.common.price.comingsoon" translate="true">
+    <value><![CDATA[Coming Soon]]></value>
+  </item>
+  <item key="com.nokia.common.price.free" translate="true">
+    <value><![CDATA[Free]]></value>
+  </item>
+  <item key="com.nokia.common.price.onlyinstores" translate="true">
+    <value><![CDATA[Only in stores]]></value>
+  </item>
+  <item key="com.nokia.compare" translate="true">
+    <value><![CDATA[Compare]]></value>
+  </item>
+  <item key="com.nokia.compatible" translate="true">
+    <value><![CDATA[Compatible smartphones]]></value>
+  </item>
+  <item key="com.nokia.devices.backbutton" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.devices.color.body" translate="true">
+    <value><![CDATA[Choose your perfect colour by tapping on the ‘Choose colour’ option below and then picking your favourite.]]></value>
+  </item>
+  <item key="com.nokia.devices.color.title" translate="true">
+    <value><![CDATA[What colour are you?]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.accessories" translate="true">
+    <value><![CDATA[Add<br/>accessories]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.add" translate="true">
+    <value><![CDATA[Add<br/>Smartphone]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.apps" translate="true">
+    <value><![CDATA[Add<br/>apps]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.color" translate="true">
+    <value><![CDATA[Choose <br/>Color]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.create" translate="true">
+    <value><![CDATA[Create your]]></value>
+  </item>
+  <item key="com.nokia.devices.footer.pack" translate="true">
+    <value><![CDATA[Choose<br/>a pack]]></value>
+  </item>
+  <item key="com.nokia.devices.techspecs.featurestitle" translate="true">
+    <value><![CDATA[Pre-installed to get you started]]></value>
+  </item>
+  <item key="com.nokia.devices.title" translate="true">
+    <value><![CDATA[Smartphones]]></value>
+  </item>
+  <item key="com.nokia.devices.title.singular" translate="true">
+    <value><![CDATA[Smartphone]]></value>
+  </item>
+  <item key="com.nokia.email.cashier.subject" translate="true">
+    <value><![CDATA[A touchscreen checkout ]]></value>
+  </item>
+  <item key="com.nokia.email.common.accessories" translate="true">
+    <value><![CDATA[Accessories:]]></value>
+  </item>
+  <item key="com.nokia.email.common.apps" translate="true">
+    <value><![CDATA[Apps:]]></value>
+  </item>
+  <item key="com.nokia.email.common.cashier.fail" translate="true">
+    <value><![CDATA[Your order cannot be sent, please ask for a staff member.]]></value>
+  </item>
+  <item key="com.nokia.email.common.user.fail" translate="true">
+    <value><![CDATA[We were not able to send your email at this time, due to a problem with the internet connection. Please talk to a member of staff if you need assistance.]]></value>
+  </item>
+  <item key="com.nokia.email.user.footer1" translate="true">
+    <value><![CDATA[To purchase your device and accessories online, go to www.nokia.co.uk]]></value>
+  </item>
+  <item key="com.nokia.email.user.footer2" translate="true">
+    <value><![CDATA[To set up an Ovi account and download your chosen apps, go to www.ovi.com ]]></value>
+  </item>
+  <item key="com.nokia.email.user.headerline1" translate="true">
+    <value><![CDATA[Thank you for using our Nokia touch-screens recently.]]></value>
+  </item>
+  <item key="com.nokia.email.user.headerline2" translate="true">
+    <value><![CDATA[Here is a summary of your selection.]]></value>
+  </item>
+  <item key="com.nokia.email.user.headerline3" translate="true">
+    <value><![CDATA[Remember, you can make your purchase at any time online. Just follow the links below. ]]></value>
+  </item>
+  <item key="com.nokia.email.user.subject" translate="true">
+    <value><![CDATA[Here's your Nokia selection]]></value>
+  </item>
+  <item key="com.nokia.email.user.yoursmartphone" translate="true">
+    <value><![CDATA[Your smartphone:]]></value>
+  </item>
+  <item key="com.nokia.filtering.all" translate="true">
+    <value><![CDATA[All]]></value>
+  </item>
+  <item key="com.nokia.filtering.latest" translate="true">
+    <value><![CDATA[Latest]]></value>
+  </item>
+  <item key="com.nokia.filtering.myapps" translate="true">
+    <value><![CDATA[My Apps]]></value>
+  </item>
+  <item key="com.nokia.filtering.popular" translate="true">
+    <value><![CDATA[Most popular]]></value>
+  </item>
+  <item key="com.nokia.filters.all" translate="true">
+    <value><![CDATA[All]]></value>
+  </item>
+  <item key="com.nokia.filtersliderpanel.heading" translate="true">
+    <value><![CDATA[Get inspired by]]></value>
+  </item>
+  <item key="com.nokia.footer.compare.button" translate="true">
+    <value><![CDATA[Compare smartphones]]></value>
+  </item>
+  <item key="com.nokia.form.allfieldsrequired" translate="true">
+    <value><![CDATA[* All fields are required]]></value>
+  </item>
+  <item key="com.nokia.form.button.continueexploring" translate="true">
+    <value><![CDATA[Continue Exploring]]></value>
+  </item>
+  <item key="com.nokia.form.cashier.summary" translate="true">
+    <value><![CDATA[Your order will be sent to the cashier and a summary will be sent to your email]]></value>
+  </item>
+  <item key="com.nokia.form.choices.review" translate="true">
+    <value><![CDATA[Enter your email address to review your choices at a later date]]></value>
+  </item>
+  <item key="com.nokia.form.device.purchase" translate="true">
+    <value><![CDATA[You can purchase your Nokia device from the online store]]></value>
+  </item>
+  <item key="com.nokia.form.device.readyatcashier" translate="true">
+    <value><![CDATA[Your order was sent to the cashier and your new Nokia device will be ready soon.  Please go to the cashier to collect it.]]></value>
+  </item>
+  <item key="com.nokia.form.email.errormessage" translate="true">
+    <value><![CDATA[Email must be a valid email address]]></value>
+  </item>
+  <item key="com.nokia.form.email.needemail" translate="true">
+    <value><![CDATA[In order to install the apps you have selected we need you to enter your email address]]></value>
+  </item>
+  <item key="com.nokia.form.email.pleaseenter" translate="true">
+    <value><![CDATA[Please enter your email address]]></value>
+  </item>
+  <item key="com.nokia.form.email.senttoyou" translate="true">
+    <value><![CDATA[An email has been sent to you]]></value>
+  </item>
+  <item key="com.nokia.form.emailadress" translate="true">
+    <value><![CDATA[Email address]]></value>
+  </item>
+  <item key="com.nokia.form.location" translate="true">
+    <value><![CDATA[Location]]></value>
+  </item>
+  <item key="com.nokia.form.location.error" translate="true">
+    <value><![CDATA[Please choose a location.]]></value>
+  </item>
+  <item key="com.nokia.form.mobilenumber" translate="true">
+    <value><![CDATA[Mobile Number]]></value>
+  </item>
+  <item key="com.nokia.form.mobilenumber.error" translate="true">
+    <value><![CDATA[Enter ]]></value>
+  </item>
+  <item key="com.nokia.form.order.submit" translate="true">
+    <value><![CDATA[Submit]]></value>
+  </item>
+  <item key="com.nokia.form.order.submitcomplete" translate="true">
+    <value><![CDATA[Thank you for submitting your order]]></value>
+  </item>
+  <item key="com.nokia.form.ovi.create.header" translate="true">
+    <value><![CDATA[Why not create an OVI account?]]></value>
+  </item>
+  <item key="com.nokia.form.ovi.create.pageheader" translate="true">
+    <value><![CDATA[Create an account]]></value>
+  </item>
+  <item key="com.nokia.form.ovi.create.text" translate="true">
+    <value><![CDATA[It's quick and free and you will have access to a wide range of OVI services, <br/>like free Wi-Fi at all Nokia stores.]]></value>
+  </item>
+  <item key="com.nokia.form.ovi.done" translate="true">
+    <value><![CDATA[Thank you for registering with OVI.<br>Your new Nokia device will be ready soon.  Please go to the cashier to collect it]]></value>
+  </item>
+  <item key="com.nokia.form.ovi.necc.apps" translate="true">
+    <value><![CDATA[You need to create an Ovi account to download your chosen Apps]]></value>
+  </item>
+  <item key="com.nokia.form.password" translate="true">
+    <value><![CDATA[Password]]></value>
+  </item>
+  <item key="com.nokia.form.password.error" translate="true">
+    <value><![CDATA[Enter a password between 6 -18 characters.]]></value>
+  </item>
+  <item key="com.nokia.form.password.matcherror" translate="true">
+    <value><![CDATA[Sorry, the passwords didn't match. Please enter the same password in both fields.]]></value>
+  </item>
+  <item key="com.nokia.form.password.repeat" translate="true">
+    <value><![CDATA[Repeat Password]]></value>
+  </item>
+  <item key="com.nokia.form.password.strength" translate="true">
+    <value><![CDATA[<span class='form_password_strength'>Strength:</span>]]></value>
+  </item>
+  <item key="com.nokia.form.password.strength_high" translate="true">
+    <value><![CDATA[<span class='form_password_strength_value'>High</span>]]></value>
+  </item>
+  <item key="com.nokia.form.password.strength_low" translate="true">
+    <value><![CDATA[<span class='form_password_strength_value'>Low</span>]]></value>
+  </item>
+  <item key="com.nokia.form.password.strength_medium" translate="true">
+    <value><![CDATA[<span class='form_password_strength_value'>Medium</span>]]></value>
+  </item>
+  <item key="com.nokia.form.securitycode" translate="true">
+    <value><![CDATA[Security Code]]></value>
+  </item>
+  <item key="com.nokia.form.securitycode.error" translate="true">
+    <value><![CDATA[It seems that you have some problems with the security code. Please enter the characters from the image.]]></value>
+  </item>
+  <item key="com.nokia.form.termsandconditions" translate="true">
+    <value><![CDATA[Terms and conditions]]></value>
+  </item>
+  <item key="com.nokia.form.termsandconditions.copy" translate="true">
+    <value><![CDATA[I have read and agreed to the <a href='event:TermsClicked'><font color='#006996'>Ovi Service Terms</font></a> and the <a href='event:PrivacyClicked'><font color='#006996'>Privacy Policy</font></a> ]]></value>
+  </item>
+  <item key="com.nokia.form.termsandconditions.error" translate="true">
+    <value><![CDATA[Select here to confirm you agree with our terms and conditions]]></value>
+  </item>
+  <item key="com.nokia.form.thankyou" translate="true">
+    <value><![CDATA[THANK YOU]]></value>
+  </item>
+  <item key="com.nokia.form.username" translate="true">
+    <value><![CDATA[Username]]></value>
+  </item>
+  <item key="com.nokia.form.username.error" translate="true">
+    <value><![CDATA[Enter a user name between 3-32 characters.]]></value>
+  </item>
+  <item key="com.nokia.home.footer.compare" translate="true">
+    <value><![CDATA[Compare]]></value>
+  </item>
+  <item key="com.nokia.home.footer.filter" translate="true">
+    <value><![CDATA[Filter]]></value>
+  </item>
+  <item key="com.nokia.home.footer.offers" translate="true">
+    <value><![CDATA[Offers]]></value>
+  </item>
+  <item key="com.nokia.myselection.cart.clearallitems" translate="true">
+    <value><![CDATA[Are you sure you would like to clear the cart?]]></value>
+  </item>
+  <item key="com.nokia.myselection.cart.fullremoveitem" translate="true">
+    <value><![CDATA[Your basket is full.<br/><br/>You need to remove an item from your basket before you can add this item]]></value>
+  </item>
+  <item key="com.nokia.myselection.email" translate="true">
+    <value><![CDATA[Email me <br/>my selection]]></value>
+  </item>
+  <item key="com.nokia.myselection.ovi.create" translate="true">
+    <value><![CDATA[Create an <br/>account]]></value>
+  </item>
+  <item key="com.nokia.offers.recommended" translate="true">
+    <value><![CDATA[Recommended accessories]]></value>
+  </item>
+  <item key="com.nokia.offers.title" translate="true">
+    <value><![CDATA[Offers]]></value>
+  </item>
+  <item key="com.nokia.ovi.maps.disclaimer" translate="true">
+    <value><![CDATA[]]></value>
+  </item>
+  <item key="com.nokia.packs.add" translate="true">
+    <value><![CDATA[Add]]></value>
+  </item>
+  <item key="com.nokia.packs.addthis" translate="true">
+    <value><![CDATA[Add this]]></value>
+  </item>
+  <item key="com.nokia.packs.more" translate="true">
+    <value><![CDATA[Find out more]]></value>
+  </item>
+  <item key="com.nokia.packs.title" translate="true">
+    <value><![CDATA[Packs]]></value>
+  </item>
+  <item key="com.nokia.popup.useridle.bodycopy" translate="true">
+    <value><![CDATA[We notice that you have not interacted with the screen for a while.  Do you want to:<br/><br/><li>Continue this session?</li><br/><li> Start a new session?</li>]]></value>
+  </item>
+  <item key="com.nokia.services.backbutton" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.services.devices.title" translate="true">
+    <value><![CDATA[Compatible smartphones]]></value>
+  </item>
+  <item key="com.nokia.services.features.title" translate="true">
+    <value><![CDATA[Features]]></value>
+  </item>
+  <item key="com.nokia.services.title" translate="true">
+    <value><![CDATA[Services]]></value>
+  </item>
+  <item key="com.nokia.solutions.addbutton" translate="true">
+    <value><![CDATA[Add solution]]></value>
+  </item>
+  <item key="com.nokia.solutions.backbutton" translate="true">
+    <value><![CDATA[Back]]></value>
+  </item>
+  <item key="com.nokia.solutions.categories" translate="true">
+    <value><![CDATA[Categories:]]></value>
+  </item>
+  <item key="com.nokia.solutions.devices" translate="true">
+    <value><![CDATA[Devices]]></value>
+  </item>
+  <item key="com.nokia.solutions.latestsolutions" translate="true">
+    <value><![CDATA[Our latest solutions]]></value>
+  </item>
+  <item key="com.nokia.solutions.removebutton" translate="true">
+    <value><![CDATA[Remove]]></value>
+  </item>
+  <item key="com.nokia.stafftool.finddevices" translate="true">
+    <value><![CDATA[Find smartphones]]></value>
+  </item>
+  <item key="com.nokia.stafftool.reset" translate="true">
+    <value><![CDATA[Reset]]></value>
+  </item>
+</copy>

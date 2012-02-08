@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<staffToolItems xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <item id="series" checkmark="true" height="4">
+    <name><![CDATA[Series]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="x_series">
+      <label><![CDATA[X Series]]></label>
+      <info><![CDATA[The X series is for those serious about music. Every handset in the series comes with  separate media controls, great speakers, FM radio and a 3.5 mm headphone jack. Nokia Comes with Music  is included in many of the handsets and Ovi Music offers even more choice. The X Series also offers excellent internal memory and option for further storage via an external memory card.]]></info>
+    </selector>
+    <selector id="n_series">
+      <label><![CDATA[N Series]]></label>
+      <info><![CDATA[The Nokia N Series are high quality smartphones, aimed at users looking to pack as many features as possible into one device.  A few highlights for the Series are Carl Zeiss camera optics, 3G, WLAN and now also HD video capture.]]></info>
+    </selector>
+    <selector id="c_series">
+      <label><![CDATA[C Series]]></label>
+      <info><![CDATA[The C Series is Nokia's social communications series, ideal for those that cannot live without staying connected at all times. The series has a large set of Candy-bar phones but also feature qwerty and slide phones. Ovi Mail, Nokia Messenging, pre-loaded social media apps like Twitter, Facebook, MySpace etc, makes it easy to chat and share content.]]></info>
+    </selector>
+    <selector id="e_series">
+      <label><![CDATA[E Series]]></label>
+      <info><![CDATA[The Nokia E Series consists of business-oriented smartphones, with emphasis on enhanced connectivity and support for corporate em-mail push services. All devices have advanced office features.]]></info>
+    </selector>
+  </item>
+  <item id="devices" checkmark="false" height="4">
+    <name><![CDATA[Devices]]></name>
+    <dataprovider><![CDATA[devices]]></dataprovider>
+  </item>
+  <item id="camera" checkmark="false" height="3">
+    <name><![CDATA[Camera]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="_2">
+      <label><![CDATA[Up to 2 MP]]></label>
+      <info><![CDATA[Good for everyday photos for MMS or for uploading to social network profiles. Ideal for sharing online or for viewing on a mobile handset]]></info>
+    </selector>
+    <selector id="3.2_3.2">
+      <label><![CDATA[3.2 MP]]></label>
+      <info><![CDATA[A good choice for everyday photos, for sharing online or via email and for viewing as digital slideshows.]]></info>
+    </selector>
+    <selector id="5_5">
+      <label><![CDATA[5 MP]]></label>
+      <info><![CDATA[A good all-round choice for holiday snaps, social events and everyday photography.  Ideal for sharing online or by email, or for viewing as digital slideshows. It’s also fine for small sized prints.]]></info>
+    </selector>
+    <selector id="8_8">
+      <label><![CDATA[8 MP]]></label>
+      <info><![CDATA[High quality photos at print quality resolution.  Gives good all-round usage from MMSing to TV resolution viewing, and print up to A3]]></info>
+    </selector>
+    <selector id="8.001_999">
+      <label><![CDATA[Over 8 MP]]></label>
+      <info><![CDATA[Top of the range camera resolution and will cover all needs from everyday to advanced. Please note that the high-res images will also use a lot of memory for storage.]]></info>
+    </selector>
+  </item>
+  <item id="memory" checkmark="false" height="3">
+    <name><![CDATA[Memory]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="0_100">
+      <label><![CDATA[Up to 100 MB]]></label>
+      <info><![CDATA[Memory for incoming/outgoing messages and MMS/thumbnail photos only]]></info>
+    </selector>
+    <selector id="100_300">
+      <label><![CDATA[100-300 MB]]></label>
+      <info><![CDATA[Large memory for basic functions like storing low resolution photos or saving a small amount of MP3s]]></info>
+    </selector>
+    <selector id="1000_2000">
+      <label><![CDATA[1-2 GB]]></label>
+      <info><![CDATA[Mid-level storage capacity- will allow for storing photos and albums, but not sufficient for high-res photos or storing a large music-collection]]></info>
+    </selector>
+    <selector id="16000_16000">
+      <label><![CDATA[16 GB]]></label>
+      <info><![CDATA[Large capacity allows for lots of music storage and for other multimedia content]]></info>
+    </selector>
+    <selector id="32000_32000">
+      <label><![CDATA[32 GB]]></label>
+      <info><![CDATA[Larger than average capacity - more than sufficient for a large music collection as well as high-res photos, photo albums and video content]]></info>
+    </selector>
+    <selector id="32000_">
+      <label><![CDATA[Over 32 GB]]></label>
+      <info><![CDATA[Top-range for storage capacity, will allow for a seemingly unlimited amount of photos, music, videos and work documents]]></info>
+    </selector>
+  </item>
+  <item id="colour" checkmark="false" height="4">
+    <name><![CDATA[Colour]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="0x000000">
+      <label><![CDATA[Black]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0x437a92">
+      <label><![CDATA[Blue]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xe4dacb">
+      <label><![CDATA[Gold]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xa9af42">
+      <label><![CDATA[Green]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0x77777b">
+      <label><![CDATA[Grey]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xe87431">
+      <label><![CDATA[Orange]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xd72975">
+      <label><![CDATA[Pink]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xa1748a">
+      <label><![CDATA[Purple]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xbe2322">
+      <label><![CDATA[Red]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xc5c5c3">
+      <label><![CDATA[Silver]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xffffff">
+      <label><![CDATA[White]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+    <selector id="0xd2cf4f">
+      <label><![CDATA[Yellow]]></label>
+      <info><![CDATA[]]></info>
+    </selector>
+  </item>
+  <item id="design" checkmark="true" height="6">
+    <name><![CDATA[Design]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="classic">
+      <label><![CDATA[Classic]]></label>
+      <info><![CDATA[The traditional candy-bar phone - with screen covering top half and standard numeric keyboard at the bottom half.]]></info>
+    </selector>
+    <selector id="fold">
+      <label><![CDATA[Fold]]></label>
+      <info><![CDATA[Clam-shell style phone - keeps the screen and the keyboard protected when not in use]]></info>
+    </selector>
+    <selector id="slide">
+      <label><![CDATA[Slide]]></label>
+      <info><![CDATA[Combines a full-size screen with a numerical or qwerty keyboard for speedy typing. Great for video viewing and actions requiring a big screen]]></info>
+    </selector>
+    <selector id="touchPhone">
+      <label><![CDATA[Touch Phone]]></label>
+      <info><![CDATA[Allows for easy access to content by using the touch screen as well as standard UI keys]]></info>
+    </selector>
+    <selector id="largeScreen">
+      <label><![CDATA[Large Screen]]></label>
+      <info><![CDATA[Large screen is ideal for video viewing and for chat-strings and multi-tasking]]></info>
+    </selector>
+    <selector id="qwerty">
+      <label><![CDATA[QWERTY]]></label>
+      <info><![CDATA[The traditional candy-bar phone - with screen covering top half and standard numeric keyboard at the bottom half.]]></info>
+    </selector>
+  </item>
+  <item id="keyFeatures" checkmark="true" height="15">
+    <name><![CDATA[Key Features]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="bluetooth">
+      <label><![CDATA[Bluetooth]]></label>
+      <info><![CDATA[Bluetooth is a wireless technology that enables communication between Bluetooth-compatible devices, allowing for file and content transfer e.g. from mobile to mobile or mobile to PC.]]></info>
+    </selector>
+    <selector id="browser">
+      <label><![CDATA[Browser]]></label>
+      <info><![CDATA[Allows for viewing internet pages on your mobile device.]]></info>
+    </selector>
+    <selector id="email">
+      <label><![CDATA[Email]]></label>
+      <info><![CDATA[Computer communication format enabling users to send and receive messages electronically between devices]]></info>
+    </selector>
+    <selector id="two_g">
+      <label><![CDATA[2G]]></label>
+      <info><![CDATA[Second generation wireless telephone technology.  Digitally allows for transmitting via the phone networks and is synonymous with GSM - medium speed.]]></info>
+    </selector>
+    <selector id="three_g">
+      <label><![CDATA[3G]]></label>
+      <info><![CDATA[Third generation wireless telephone technology, faster than 2G, utilising high-speed technology that allows for transmitting rich media like video and live communication]]></info>
+    </selector>
+    <selector id="radio">
+      <label><![CDATA[Radio]]></label>
+      <info><![CDATA[Radio player allows for listening to radio stations transmitting in the area you're in]]></info>
+    </selector>
+    <selector id="music_player">
+      <label><![CDATA[Music Player]]></label>
+      <info><![CDATA[Take your music with you wherever you go with the music enabled devices from Nokia]]></info>
+    </selector>
+    <selector id="video">
+      <label><![CDATA[Video]]></label>
+      <info><![CDATA[Video capture and playback functionality built into the device - watch and share video content]]></info>
+    </selector>
+    <selector id="video_hd">
+      <label><![CDATA[HD Video]]></label>
+      <info><![CDATA[High Quality video content can be captured and shared. Play-back on connected devices like TV or computer screens.]]></info>
+    </selector>
+    <selector id="wifi">
+      <label><![CDATA[Wi-Fi]]></label>
+      <info><![CDATA[Internet connection whenever you're in a Wi-Fi zone, allows you to browse the web whilst out and about]]></info>
+    </selector>
+    <selector id="speaker">
+      <label><![CDATA[Speaker Phone]]></label>
+      <info><![CDATA[Play your music not only through your headphones but also out loud- whether at home or out with friends]]></info>
+    </selector>
+    <selector id="video_playback">
+      <label><![CDATA[Video Playback]]></label>
+      <info><![CDATA[Watch both downloaded and captured video content on the handset - no need to transfer to computer or DVD!]]></info>
+    </selector>
+    <selector id="push_email">
+      <label><![CDATA[Push Email]]></label>
+      <info><![CDATA[A method of having emails received on your standard email accounts pushed to your mobile device in real-time. Ideal for those that need to keep on top of their communication]]></info>
+    </selector>
+    <selector id="gps_nav">
+      <label><![CDATA[GPS Navigation]]></label>
+      <info><![CDATA[Allows the handset to receive GPS (Global Positioning System) signals for determining the exact location of the handset at any one time. Allows for real-time navigation using e.g. Ovi Maps or other map services]]></info>
+    </selector>
+    <selector id="apps">
+      <label><![CDATA[Apps]]></label>
+      <info><![CDATA[An App is a piece of software which can be downloaded and used on a mobile device.  There are many types of Apps, including games, office tools, live sports feeds and Apps that will help you find things, like good restaurants, location of friends or where you parked your car]]></info>
+    </selector>
+  </item>
+  <item id="price" checkmark="false" height="4">
+    <name><![CDATA[Price]]></name>
+    <dataprovider><![CDATA[]]></dataprovider>
+    <selector id="0_100">
+      <label><![CDATA[Less than £100]]></label>
+      <info><![CDATA[Cheap...]]></info>
+      <min>0</min>
+      <max>100</max>
+    </selector>
+    <selector id="100_200">
+      <label><![CDATA[£100 to £200]]></label>
+      <info><![CDATA[Mid-range...]]></info>
+      <min>100</min>
+      <max>200</max>
+    </selector>
+    <selector id="200_300">
+      <label><![CDATA[£200 to £300]]></label>
+      <info><![CDATA[Expensive...]]></info>
+      <min>200</min>
+      <max>300</max>
+    </selector>
+    <selector id="300_999">
+      <label><![CDATA[£300+]]></label>
+      <info><![CDATA[Executive...]]></info>
+      <min>300</min>
+    </selector>
+  </item>
+</staffToolItems>
